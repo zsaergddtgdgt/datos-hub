@@ -1,0 +1,22 @@
+{
+    "webSeriesDataList": [
+       {
+            "id": "1",
+            "ImageUrlHorizontal": "https://www.mediafire.com/convkey/e954/y884aubi6bcy4286g.jpg",
+            "ImageUrlVertical": "https://www.mediafire.com/convkey/210a/5dqtim56yaa0h7v6g.jpg",
+            "movieName": "Game of Thrones Season 1",
+            "directOne": "Popular,Thriller,Action,Fantasy",
+            "imbd": "9.3",
+            "language": "Hindi",
+            "catergory": "Ullu",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "EpisodeTape": {"1":"d2xxcmoyMmFWMWZKSlB5","2":"amwxV0sxS2FYZ2h6UGdL"},
+            "EpisodeHub": {"1":"d2xxcmoyMmFWMWZKSlB5","2":"amwxV0sxS2FYZ2h6UGdL"},
+            "EpisodeTapeD": {"1":"d2xxcmoyMmFWMWZKSlB5","2":"amwxV0sxS2FYZ2h6UGdL"},
+            "EpisodeHubD": {"1":"d2xxcmoyMmFWMWZKSlB5","2":"amwxV0sxS2FYZ2h6UGdL"},
+            "keyName": "Game of Thrones",
+            "pathName": "S1"
+        }
+        ]}
