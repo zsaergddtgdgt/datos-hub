@@ -1,38 +1,63 @@
 [
    {
       "id":"1",
-      "name":"Bollywood",
-      "image":"https://previews.123rf.com/images/outchill/outchill1711/outchill171107108/89210246-bollywood-text-written-on-blue-lacey-border-round-vintage-textured-badge-stamp-.jpg",
-      "genre":"Bollywood"
+      "name":"Ullu",
+      "image":"https://i.ibb.co/7ykmSc2/Ullu.jpg",
+      "genre":"Ullu"
    },
    {
       "id":"2",
-      "name":"Hollywood",
-      "image":"https://i.pinimg.com/236x/96/54/b2/9654b2e6481c75f6029a7d4a2c3d3f0b--hollywood-app-icon.jpg",
-      "genre":"Hollywood"
+      "name":"Kooku",
+      "image":"https://i.ibb.co/ccT5Vb0/kooku-logo.jpg",
+      "genre":"Kooku"
    },
    {
       "id":"3",
-      "name":"South Indian",
-      "image":"https://image.winudf.com/v2/image1/Y29tLnNhcy5zb3V0aGluZGlhbm1vdmllcy5oaW5kaW1vdmllc19pY29uXzE1NjAzMjM1NDZfMDQ5/icon.png?w=170&fakeurl=1",
-      "genre":"South"
+      "name":"Hot MX",
+      "image":"https://i.ibb.co/W5pt2mS/Hot-Mx-mod-apk-download.jpg",
+      "genre":"Hot MX"
    },
    {
       "id":"4",
-      "name":"Punjabi",
-      "image":"https://static10.tgstat.ru/channels/_0/a5/a588a9cd515afb8cbcf343bd7d3eb690.jpg",
-      "genre":"Punjabi"
+      "name":"Rabbit Movies",
+      "image":"https://i.ibb.co/2h47sHf/rabbbit-movies.png",
+      "genre":"Rabbit Movies"
    },
    {
       "id":"5",
-      "name":"Adult",
-      "image":"https://previews.123rf.com/images/arcady31/arcady311604/arcady31160400024/55145293-under-18-rubber-stamp-adults-only.jpg",
-      "genre":"Adult"
+      "name":"HotX",
+      "image":"https://i.ibb.co/dkZNxL1/hotx.png",
+      "genre":"HotX"
    },
    {
       "id":"6",
-      "name":"HollyWood English",
-      "image":"https://lh3.googleusercontent.com/5amoFz-MrprI2tB2J5rznGts55oW5L-spbF5C2ih8-l0AIIxBFfT6QtiE-3ggTTTEDfA",
-      "genre":"HollywoodEnglish"
+      "name":"Poonam Pandey",
+      "image":"https://i.ibb.co/YDJHccC/poonam-Pandey.jpg",
+      "genre":"Poonam Pandey"
+   },
+   {
+      "id":"7",
+      "name":"Sherlyn Chopra",
+      "image":"https://i.ibb.co/P9RqqWq/sherlyn.jpg",
+      "genre":"Sherlyn Chopra"
+   },
+   {
+      "id":"8",
+      "name":"Fliz",
+      "image":"https://i.ibb.co/2vnqD4X/Fliz-Movies.png",
+      "genre":"Fliz"
+   },
+   {
+      "id":"9",
+      "name":"HotShots",
+      "image":"https://i.ibb.co/Qf63S3c/hotshots.jpg",
+      "genre":"HotShots"
+   },
+   {
+      "id":"10",
+      "name":"Prime Flix",
+      "image":"https://i.ibb.co/whpBH2x/prime-Flix.jpg",
+      "genre":"Prime Flix"
    }
+   
 ]
