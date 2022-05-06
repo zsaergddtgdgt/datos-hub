@@ -506,8 +506,8 @@
       },
       {
          "id":"18",
-         "ImageUrlHorizontal":"https://i.ibb.co/9GvkYjb/17H.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/C52kjLG/17V.jpg",
+         "ImageUrlHorizontal":"https://i.ibb.co/s3jc847/18H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/D54nsfR/18V.jpg",
          "movieName":"Lahore Diaries (2022) Hindi Season 1 (2022)",
          "directOne":"Adult,Fantasy",
          "imbd":"9.3",
@@ -524,5 +524,25 @@
          "keyName":"Lahore Diaries 1",
          "pathName":"S1"
       },
+      {
+         "id":"19",
+         "ImageUrlHorizontal":"https://i.ibb.co/s3jc847/18H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/D54nsfR/18V.jpg",
+         "movieName":"Lahore Diaries yu (2022) Hindi Season 1 (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{},
+         "EpisodeHub":{},
+         "EpisodeTapeD":{},
+         "EpisodeHubD":{},
+         "keyName":"Lahore Diaries 1",
+         "pathName":"S1"
+      }
    ]
 }
