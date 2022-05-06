@@ -399,7 +399,7 @@
          "latestCatergory":"FALSE",
          "EpisodeTape":{
             "1":"https://streamtape.com/v/BARdO9p1gQCygOK/04_Gaachi_Part_1_%282022%29_Ullu_1.mp4",
-            "2.mkv":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
+            "2":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
          },
          "EpisodeHub":{
             "1":"https://streamhub.to/7w426xme1uvz",
@@ -407,7 +407,7 @@
          },
          "EpisodeTapeD":{
             "1":"https://streamtape.com/v/BARdO9p1gQCygOK/04_Gaachi_Part_1_%282022%29_Ullu_1.mp4",
-            "2.mkv":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
+            "2":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
          },
          "EpisodeHubD":{
             "1":"https://streamhub.to/7w426xme1uvz",
@@ -431,7 +431,7 @@
          "latestCatergory":"FALSE",
          "EpisodeTape":{
             "1":"https://streamtape.com/v/yGb3LxOwBaUOda/03_Ferrous_Part-1_%282022%29_Ullu_1.mp4",
-            "2.mkv":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
+            "2":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
          },
          "EpisodeHub":{
             "1":"https://streamhub.to/nmozryv1bdkw",
@@ -439,7 +439,7 @@
          },
          "EpisodeTapeD":{
             "1":"https://streamtape.com/v/yGb3LxOwBaUOda/03_Ferrous_Part-1_%282022%29_Ullu_1.mp4",
-            "2.mkv":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
+            "2":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
          },
          "EpisodeHubD":{
             "1":"https://streamhub.to/nmozryv1bdkw",
@@ -490,13 +490,15 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4",
+            "2":"https://streamtape.com/v/6Km4W48RjjH922w/02_Navel_Of_Love_%282022%29_Hindi_Season_1_Ullu.mp4"
          },
          "EpisodeHub":{
             "1":"https://streamhub.to/2b60chswwkxr"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4",
+            "2":"https://streamtape.com/v/6Km4W48RjjH922w/02_Navel_Of_Love_%282022%29_Hindi_Season_1_Ullu.mp4"
          },
          "EpisodeHubD":{
             "1":"https://streamhub.to/2b60chswwkxr"
