@@ -25,8 +25,8 @@
    },
    {
       "id":"5",
-      "name":"HotX",
-      "image":"https://i.ibb.co/dkZNxL1/hotx.png",
+      "name":"Filmy Murga",
+      "image":"https://i.ibb.co/kx3CGJQ/filmymurga.jpg",
       "genre":"HotX"
    },
    {
