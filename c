@@ -58,6 +58,12 @@
       "name":"Prime Flix",
       "image":"https://i.ibb.co/whpBH2x/prime-Flix.jpg",
       "genre":"Prime Flix"
+   },
+   {
+      "id":"11",
+      "name":"BoomMovies",
+      "image":"https://i.ibb.co/KbJqC04/boommovies.jpg",
+      "genre":"BoomMovies"
    }
    
 ]
