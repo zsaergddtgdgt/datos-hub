@@ -21,7 +21,7 @@
       "id":"4",
       "name":"Rabbit Movies",
       "image":"https://i.ibb.co/2h47sHf/rabbbit-movies.png",
-      "genre":"Rabbit Movies"
+      "genre":"RabbitMovies"
    },
    {
       "id":"5",
