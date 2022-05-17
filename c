@@ -57,7 +57,7 @@
       "id":"10",
       "name":"Prime Flix",
       "image":"https://i.ibb.co/whpBH2x/prime-Flix.jpg",
-      "genre":"Prime Flix"
+      "genre":"PrimeFlix"
    },
    {
       "id":"11",
@@ -70,6 +70,12 @@
       "name":"PrimeShots",
       "image":"https://i.ibb.co/RTpDX96/Prime-Shots.jpg",
       "genre":"PrimeShots"
+   },
+   {
+      "id":"13",
+      "name":"HotMasti",
+      "image":"https://i.ibb.co/z2VrHXT/HotMasti.jpg",
+      "genre":"HotMasti"
    }
    
 ]
