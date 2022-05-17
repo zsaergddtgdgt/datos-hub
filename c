@@ -64,6 +64,12 @@
       "name":"BoomMovies",
       "image":"https://i.ibb.co/KbJqC04/boommovies.jpg",
       "genre":"BoomMovies"
+   },
+   {
+      "id":"12",
+      "name":"PrimeShots",
+      "image":"https://i.ibb.co/RTpDX96/Prime-Shots.jpg",
+      "genre":"PrimeShots"
    }
    
 ]
