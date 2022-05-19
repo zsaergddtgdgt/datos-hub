@@ -88,6 +88,12 @@
       "name":"HalKut",
       "image":"https://i.ibb.co/S79LBz1/halkut.jpg",
       "genre":"HalKut"
+   },
+   {
+      "id":"16",
+      "name":"HottyNaughty",
+      "image":"https://i.ibb.co/RQZVnsH/hottnaughty.jpg",
+      "genre":"HottyNaughty"
    }
    
 ]
