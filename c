@@ -82,6 +82,12 @@
       "name":"CinePrime",
       "image":"https://i.ibb.co/dkPgN5n/cineprime.png",
       "genre":"CinePrime"
+   },
+   {
+      "id":"15",
+      "name":"HalKut",
+      "image":"https://i.ibb.co/S79LBz1/halkut.jpg",
+      "genre":"HalKut"
    }
    
 ]
