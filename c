@@ -76,6 +76,12 @@
       "name":"HotMasti",
       "image":"https://i.ibb.co/z2VrHXT/HotMasti.jpg",
       "genre":"HotMasti"
+   },
+   {
+      "id":"14",
+      "name":"CinePrime",
+      "image":"https://i.ibb.co/dkPgN5n/cineprime.png",
+      "genre":"CinePrime"
    }
    
 ]
