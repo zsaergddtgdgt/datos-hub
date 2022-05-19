@@ -15,7 +15,7 @@
       "id":"3",
       "name":"Hot MX",
       "image":"https://i.ibb.co/W5pt2mS/Hot-Mx-mod-apk-download.jpg",
-      "genre":"Hot MX"
+      "genre":"HotMX"
    },
    {
       "id":"4",
