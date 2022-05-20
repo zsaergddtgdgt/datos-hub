@@ -94,6 +94,12 @@
       "name":"HottyNaughty",
       "image":"https://i.ibb.co/RQZVnsH/hottnaughty.jpg",
       "genre":"HottyNaughty"
+   },
+   {
+      "id":"17",
+      "name":"WOW",
+      "image":"https://i.ibb.co/zZrqX73/wow.jpg",
+      "genre":"WOW"
    }
    
 ]
