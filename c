@@ -27,7 +27,7 @@
       "id":"5",
       "name":"Filmy Murga",
       "image":"https://i.ibb.co/kx3CGJQ/filmymurga.jpg",
-      "genre":"Filmy Murga"
+      "genre":"FilmyMurga"
    },
    {
       "id":"6",
