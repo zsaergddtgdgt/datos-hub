@@ -49,9 +49,9 @@
    },
    {
       "id":"9",
-      "name":"HotShots",
-      "image":"https://i.ibb.co/Qf63S3c/hotshots.jpg",
-      "genre":"HotShots"
+      "name":"DigimoviePlex",
+      "image":"https://i.ibb.co/bdvCybL/digimovieplex.jpg",
+      "genre":"DigimoviePlex"
    },
    {
       "id":"10",
