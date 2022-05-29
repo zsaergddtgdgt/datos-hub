@@ -13,10 +13,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/zXpyJmeg7RFYPqa/17_Relationship_Counsellor_Part_-_1_%282022%29_ullu_1.mp4","2":"https://streamtape.com/v/8OxDQvo2Kqc8eK/17_Relationship_Counsellor_Part_-_2_%282022%29_ullu_2.mp4"},
+         "EpisodeHub":{"1":"https://streamhub.to/jm7ah5i8yzip","2":"https://streamhub.to/jsxepkcq73n7"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/zXpyJmeg7RFYPqa/17_Relationship_Counsellor_Part_-_1_%282022%29_ullu_1.mp4","2":"https://streamtape.com/v/8OxDQvo2Kqc8eK/17_Relationship_Counsellor_Part_-_2_%282022%29_ullu_2.mp4"},
+         "EpisodeHubD":{"1":"https://streamhub.to/jm7ah5i8yzip","2":"https://streamhub.to/jsxepkcq73n7"},
          "keyName":"Relationship Counsellor 1",
          "pathName":"S1"
       },
@@ -34,7 +34,10 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
+         "EpisodeHub":{
+            "1":"https://streamhub.to/vs9hfz2dtofh",
+            "2":"https://streamhub.to/kawmmhlki3vy"
+            },
          "EpisodeTapeD":{"1":""},
          "EpisodeHubD":{
             "1":"https://streamhub.to/vs9hfz2dtofh",
@@ -201,20 +204,20 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/YBBMrgqjyqTp9k/10_Gao_Ki_Garmi_2_Part_1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/ZJoM3RAkRotqAeq/10_Palang_Tod_%28gaon_Ki_Garmi_2_-_Part_2%29_%282022%29_Ullu_2.mp4"
+            "1":"https://streamtape.com/v/De7QrbyZY9ckO20/PTLGGS1P172H3V_Jalshamoviez1.art.mkv",
+            "2":"https://streamtape.com/v/41o2Gjp3o8CKKe7/JMTeam_G1KGPTS2P272H3.mkv"
          },
          "EpisodeHub":{
-            "1":"https://streamhub.to/n9z5thnxcvks",
-            "2":"https://streamhub.to/bwvutj726ltg"
+            "1":"https://streamhub.to/f1livmhn1t7s",
+            "2":"https://streamhub.to/mjr7sg6rp64u"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/YBBMrgqjyqTp9k/10_Gao_Ki_Garmi_2_Part_1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/ZJoM3RAkRotqAeq/10_Palang_Tod_%28gaon_Ki_Garmi_2_-_Part_2%29_%282022%29_Ullu_2.mp4"
+            "1":"https://streamtape.com/v/De7QrbyZY9ckO20/PTLGGS1P172H3V_Jalshamoviez1.art.mkv",
+            "2":"https://streamtape.com/v/41o2Gjp3o8CKKe7/JMTeam_G1KGPTS2P272H3.mkv"
          },
          "EpisodeHubD":{
-            "1":"https://streamhub.to/n9z5thnxcvks",
-            "2":"https://streamhub.to/bwvutj726ltg"
+            "1":"https://streamhub.to/f1livmhn1t7s",
+            "2":"https://streamhub.to/mjr7sg6rp64u"
          },
          "keyName":"Palang Tod Gao Ki Garmi 2",
          "pathName":"S2"
@@ -265,13 +268,13 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/PGZlLZeKApfLqq/08_Hotspot_Mail_Trail_S01_%282022%29_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/q69bq8YB7gTaGv/JMTeam_HPMTUL72H.mkv"
          },
          "EpisodeHub":{
             "1":"https://streamhub.to/g46oobq2bvls"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/PGZlLZeKApfLqq/08_Hotspot_Mail_Trail_S01_%282022%29_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/q69bq8YB7gTaGv/JMTeam_HPMTUL72H.mkv"
          },
          "EpisodeHubD":{
             "1":"https://streamhub.to/g46oobq2bvls"
@@ -321,16 +324,16 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/Jwk4DQ4ayAFjYGb/06_Palang_Tod_Damaad_Ji_S01_%282022%29_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/oxVxYP1eLvFJ28X/JMTeam_P1N3T0D3MULS172H.mkv"
          },
          "EpisodeHub":{
-            "1":"https://streamhub.to/typhfnkhy8ew"
+            "1":"https://streamhub.to/n5dyxswd7tza"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/Jwk4DQ4ayAFjYGb/06_Palang_Tod_Damaad_Ji_S01_%282022%29_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/oxVxYP1eLvFJ28X/JMTeam_P1N3T0D3MULS172H.mkv"
          },
          "EpisodeHubD":{
-            "1":"https://streamhub.to/typhfnkhy8ew"
+            "1":"https://streamhub.to/n5dyxswd7tza"
          },
          "keyName":"Palang Tod Damaad Ji 1",
          "pathName":"S1"
@@ -377,20 +380,20 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/BARdO9p1gQCygOK/04_Gaachi_Part_1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
+            "1":"https://streamtape.com/v/kDyXz23M2WHOz8V/JMTeam_G1CHUL72H3V.mkv",
+            "2":"https://streamtape.com/v/jl37kmXK4yIzV8g/JMTeam_G1C3HULP2S172H3V.mkv"
          },
          "EpisodeHub":{
             "1":"https://streamhub.to/7w426xme1uvz",
-            "2":"https://streamhub.to/mmv8tv91z6u2"
+            "2":"https://streamhub.to/btiol9msgmcn"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/BARdO9p1gQCygOK/04_Gaachi_Part_1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/OWZkKZDQjRIZlOK/04_Gaachi_Part_2_%282022%29_Ullu_2.mkv.mp4"
+            "1":"https://streamtape.com/v/kDyXz23M2WHOz8V/JMTeam_G1CHUL72H3V.mkv",
+            "2":"https://streamtape.com/v/jl37kmXK4yIzV8g/JMTeam_G1C3HULP2S172H3V.mkv"
          },
          "EpisodeHubD":{
             "1":"https://streamhub.to/7w426xme1uvz",
-            "2":"https://streamhub.to/mmv8tv91z6u2"
+            "2":"https://streamhub.to/btiol9msgmcn"
          },
          "keyName":"Gaachi 1",
          "pathName":"S1"
@@ -409,19 +412,19 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/yGb3LxOwBaUOda/03_Ferrous_Part-1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
+            "1":"https://streamtape.com/v/g0v9Lvezb8cqQZq/JMTeam_F1R3SULS1P172H.mkv",
+            "2":"https://streamtape.com/v/eqQlO8wraMcjqY/JMTeam_F1R3SP2UL72H.mkv"
          },
          "EpisodeHub":{
-            "1":"https://streamhub.to/nmozryv1bdkw",
+            "1":"https://streamhub.to/hn1edgydvg4w",
             "2":"https://streamhub.to/9assq93z9r00"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/yGb3LxOwBaUOda/03_Ferrous_Part-1_%282022%29_Ullu_1.mp4",
-            "2":"https://streamtape.com/v/M0zmzOVL3DcBaa/03_Ferrous_part_2_%282022%29_Ullu_2.mkv.mp4"
+            "1":"https://streamtape.com/v/g0v9Lvezb8cqQZq/JMTeam_F1R3SULS1P172H.mkv",
+            "2":"https://streamtape.com/v/eqQlO8wraMcjqY/JMTeam_F1R3SP2UL72H.mkv"
          },
          "EpisodeHubD":{
-            "1":"https://streamhub.to/nmozryv1bdkw",
+            "1":"https://streamhub.to/hn1edgydvg4w",
             "2":"https://streamhub.to/9assq93z9r00"
          },
          "keyName":"Ferrous 1",
@@ -441,16 +444,16 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/rKjAJ1L2BZcYxw/02_Navel_Of_Love_%282022%29_Hindi_Season_1_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/qgrgjxRvjAtz0zz/HDKing.In_N1V3LL3VULS1C3P72H.mkv"
          },
          "EpisodeHub":{
-            "1":"https://streamhub.to/a1mcvweoa1r3"
+            "1":"https://streamhub.to/opt6euc3a3fb"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/rKjAJ1L2BZcYxw/02_Navel_Of_Love_%282022%29_Hindi_Season_1_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/qgrgjxRvjAtz0zz/HDKing.In_N1V3LL3VULS1C3P72H.mkv"
          },
          "EpisodeHubD":{
-            "1":"https://streamhub.to/a1mcvweoa1r3"
+            "1":"https://streamhub.to/opt6euc3a3fb"
          },
          "keyName":"Navel Of Love 1",
          "pathName":"S1"
@@ -469,16 +472,16 @@
          "latest":"FALSE",
          "latestCatergory":"FALSE",
          "EpisodeTape":{
-            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/Ox4k9wbAqqiZZwk/HDKing.Us_C1HS3KS1E35720PH3V.mkv"
          },
          "EpisodeHub":{
-            "1":"https://streamhub.to/2b60chswwkxr"
+            "1":"https://streamhub.to/1l4rqcttzy8h"
          },
          "EpisodeTapeD":{
-            "1":"https://streamtape.com/v/YwBb8R7mQatBBz/01_Charmsukh_Chawal_House_2_Ullu_1.mp4"
+            "1":"https://streamtape.com/v/Ox4k9wbAqqiZZwk/HDKing.Us_C1HS3KS1E35720PH3V.mkv"
          },
          "EpisodeHubD":{
-            "1":"https://streamhub.to/2b60chswwkxr"
+            "1":"https://streamhub.to/1l4rqcttzy8h"
          },
          "keyName":"CharamSukh Chawal House 2",
          "pathName":"S2"
@@ -496,10 +499,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/RDgl8YKGZRs7KK/HDKing.Us_CH1CHDRBS1E1T272H.mkv","2":"https://streamtape.com/v/0BdaPjPAvDUKrz/HDKing.Us_CH1CHDRBS1E3T472H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/pwzlp4wna13x","2":"https://streamhub.to/h7lnxblrk8zx"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/RDgl8YKGZRs7KK/HDKing.Us_CH1CHDRBS1E1T272H.mkv","2":"https://streamtape.com/v/0BdaPjPAvDUKrz/HDKing.Us_CH1CHDRBS1E3T472H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/pwzlp4wna13x","2":"https://streamhub.to/h7lnxblrk8zx"},
          "keyName":"Chanda Aur Chandini 1",
          "pathName":"S1"
       },
@@ -516,10 +519,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/QW4Rj4bLwAh0mwv/HDKing.Us_D1LDPS0S1E272H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/10t58nippm2z"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/QW4Rj4bLwAh0mwv/HDKing.Us_D1LDPS0S1E272H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/10t58nippm2z"},
          "keyName":"Dil Do 1",
          "pathName":"S1"
       },
@@ -536,10 +539,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/KgBq9b44M8h0qzw/HDKing.Us_M1SR3NHM72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/qc3ldz9h2esx"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/KgBq9b44M8h0qzw/HDKing.Us_M1SR3NHM72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/qc3ldz9h2esx"},
          "keyName":"Missing Rani 1",
          "pathName":"S1"
       },
@@ -556,10 +559,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/aydqlblG1qsxkLy/HDKing.Us_TV1RGS3TPF72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/r8znad46jjle"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/aydqlblG1qsxkLy/HDKing.Us_TV1RGS3TPF72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/r8znad46jjle"},
          "keyName":"The Virgin Story 1",
          "pathName":"S1"
       },
@@ -576,10 +579,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/VWX8oM8WKKSKw9Q/HDKing.Us_B3BR1CHCP72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/hjkgrk1vuxr9"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/VWX8oM8WKKSKw9Q/HDKing.Us_B3BR1CHCP72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/hjkgrk1vuxr9"},
          "keyName":"Baba Rancho 1",
          "pathName":"S1"
       },
@@ -596,10 +599,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":""},
-         "EpisodeHub":{"1":""},
-         "EpisodeTapeD":{"1":""},
-         "EpisodeHubD":{"1":""},
+         "EpisodeTape":{"1":"https://streamtape.com/v/7PZAjAvXVATAKAd/HDKing.Us_K1H3HMX72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/fjaot48q70w0"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/7PZAjAvXVATAKAd/HDKing.Us_K1H3HMX72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/fjaot48q70w0"},
          "keyName":"Khidki 1",
          "pathName":"S1"
       },
