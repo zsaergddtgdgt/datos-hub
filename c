@@ -40,13 +40,7 @@
       "name":"Sherlyn Chopra",
       "image":"https://i.ibb.co/P9RqqWq/sherlyn.jpg",
       "genre":"Sherlyn Chopra"
-   },
-   {
-      "id":"8",
-      "name":"Fliz",
-      "image":"https://i.ibb.co/2vnqD4X/Fliz-Movies.png",
-      "genre":"Fliz"
-   },
+   }
    {
       "id":"9",
       "name":"DigimoviePlex",
