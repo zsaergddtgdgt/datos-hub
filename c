@@ -40,7 +40,7 @@
       "name":"Sherlyn Chopra",
       "image":"https://i.ibb.co/P9RqqWq/sherlyn.jpg",
       "genre":"Sherlyn Chopra"
-   }
+   },
    {
       "id":"9",
       "name":"DigimoviePlex",
