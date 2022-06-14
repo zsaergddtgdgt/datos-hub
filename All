@@ -2495,26 +2495,6 @@
          "pathName":"S1"
       },
       {
-         "id":"119",
-         "ImageUrlHorizontal":"https://i.ibb.co/82gnkms/119H.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/KGBqxhL/119V.jpg",
-         "movieName":"Palang Tod: Damaad Ji Season 2(2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/2P6QJegmWeuPaB/HDKing.Fun_P1LNGT0DMDS2P1720PH3VC.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/3ie0wokmvg8w"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/2P6QJegmWeuPaB/HDKing.Fun_P1LNGT0DMDS2P1720PH3VC.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/3ie0wokmvg8w"},
-         "keyName":"Palang Tod: Damaad Ji 2",
-         "pathName":"S2"
-      },
-      {
          "id":"113",
          "ImageUrlHorizontal":"https://i.ibb.co/qWt0vDL/113H.jpg",
          "ImageUrlVertical":"https://i.ibb.co/DkgbsqB/113V.png",
@@ -2633,6 +2613,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/09nl6y7xe7nk"},
          "keyName":"Beiman Dost 1",
          "pathName":"S1"
+      },
+      {
+         "id":"119",
+         "ImageUrlHorizontal":"https://i.ibb.co/82gnkms/119H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/KGBqxhL/119V.jpg",
+         "movieName":"Palang Tod: Damaad Ji Season 2(2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/2P6QJegmWeuPaB/HDKing.Fun_P1LNGT0DMDS2P1720PH3VC.mkv","2":"https://streamtape.com/v/7RAa4ld8drhxgK/HDKing.Fun_P1LNT0DMDS2P2720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/3ie0wokmvg8w","2":"https://streamhub.to/ffpwpleyrh3j"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/2P6QJegmWeuPaB/HDKing.Fun_P1LNGT0DMDS2P1720PH3VC.mkv","2":"https://streamtape.com/v/7RAa4ld8drhxgK/HDKing.Fun_P1LNT0DMDS2P2720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/3ie0wokmvg8w","2":"https://streamhub.to/ffpwpleyrh3j"},
+         "keyName":"Palang Tod: Damaad Ji 2",
+         "pathName":"S2"
       }
    ]
 }
