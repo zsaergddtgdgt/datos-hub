@@ -2633,6 +2633,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/3ie0wokmvg8w","2":"https://streamhub.to/ffpwpleyrh3j"},
          "keyName":"Palang Tod: Damaad Ji 2",
          "pathName":"S2"
+      },
+      {
+         "id":"125",
+         "ImageUrlHorizontal":"https://i.ibb.co/ctNDtBm/125H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/MpYvGwn/125V.jpg",
+         "movieName":"Dunali Season 2(2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/bvvVK6zOabhxG4/HDKing.Fun_D1N3LS2P1C3P720PH3VC.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/v8amsoavtw5n"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/bvvVK6zOabhxG4/HDKing.Fun_D1N3LS2P1C3P720PH3VC.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/v8amsoavtw5n"},
+         "keyName":"Dunali 2",
+         "pathName":"S2"
       }
    ]
 }
