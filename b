@@ -1,5 +1,26 @@
 {
     "webSeriesDataList": [
+    
+      {
+         "id":"126",
+         "ImageUrlHorizontal":"https://i.ibb.co/KyLVFB2/126H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/sQVgJMM/126V.png",
+         "movieName":"Haye Yeh Aag (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"WOW",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/BvjqBdjm91fK7m/HDKing.Fun_H1YAA3GW0S1C3P72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/pbqxx9wpv2x1"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/BvjqBdjm91fK7m/HDKing.Fun_H1YAA3GW0S1C3P72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/pbqxx9wpv2x1"},
+         "keyName":"Haye Yeh Aag 1",
+         "pathName":"S1"
+      },
    {
          "id":"125",
          "ImageUrlHorizontal":"https://i.ibb.co/ctNDtBm/125H.jpg",
@@ -137,26 +158,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.com/v/vzeOeVVDrPt43Qo/HDKing.Vip_L1FIC3THN72H.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/qo5ouz77vs69"},
          "keyName":"Life In a City 1",
-         "pathName":"S1"
-      },
-      {
-         "id":"110",
-         "ImageUrlHorizontal":"https://i.ibb.co/60TDf2F/110H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/YWB20HY/110V.png",
-         "movieName":"Charamsukh Jane Anjane Mein 5 (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/Xx02jMeQbpTD6vL/HDKing.Vip_C1HS3KUP1LS1E39720PH3V.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/syb4hn3swzd8"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/Xx02jMeQbpTD6vL/HDKing.Vip_C1HS3KUP1LS1E39720PH3V.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/syb4hn3swzd8"},
-         "keyName":"Charamsukh Jane Anjane Mein 5",
          "pathName":"S1"
       }
         ]}
