@@ -2693,6 +2693,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/tnr9h5xfwosv"},
          "keyName":"Laila O Laila 1",
          "pathName":"S1"
+      },
+      {
+         "id":"128",
+         "ImageUrlHorizontal":"https://i.ibb.co/RCCHkss/128H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/F3r1Dy9/128V.png",
+         "movieName":"Ajab Raat Ki Gajab Kahaani 3 (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"BoomMovies",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/g9bBDK9eMJs4JY/HDKing.Fun_A1Z3BGZ3B0M7H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/gpn2fpjbx8u1"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/g9bBDK9eMJs4JY/HDKing.Fun_A1Z3BGZ3B0M7H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/gpn2fpjbx8u1"},
+         "keyName":"Ajab Raat Ki Gajab Kahaani 3",
+         "pathName":"S1"
       }
    ]
 }
