@@ -2713,6 +2713,46 @@
          "EpisodeHubD":{"1":"https://streamhub.to/gpn2fpjbx8u1"},
          "keyName":"Ajab Raat Ki Gajab Kahaani 3",
          "pathName":"S1"
+      },
+      {
+         "id":"129",
+         "ImageUrlHorizontal":"https://i.ibb.co/XpQMg1q/129H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/j6c8yrB/129V.png",
+         "movieName":"Chhupi Nazar (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Kooku",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/etr19un27sy8"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/etr19un27sy8"},
+         "keyName":"Chhupi Nazar 1",
+         "pathName":"S1"
+      },
+      {
+         "id":"130",
+         "ImageUrlHorizontal":"https://i.ibb.co/dDwhVxF/130H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/J7k06qT/130V.png",
+         "movieName":"Unfaithfull (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Kooku",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/GMXaLRX4w0U1Led/HDKing.Fun_UNF1THN72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/wzee6edyzxci"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/GMXaLRX4w0U1Led/HDKing.Fun_UNF1THN72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/wzee6edyzxci"},
+         "keyName":"Unfaithfull 1",
+         "pathName":"S1"
       }
    ]
 }
