@@ -1,5 +1,26 @@
 {
     "webSeriesDataList": [
+    
+      {
+         "id":"131",
+         "ImageUrlHorizontal":"https://i.ibb.co/FWFj4SM/131H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/DYLfn5f/131V.jpg",
+         "movieName":"Jaal (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/6W93o2WZ8yt9BPA/HDKing.Fun_J1A3LP1ULC3P720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/855sv5v3uvkz"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/6W93o2WZ8yt9BPA/HDKing.Fun_J1A3LP1ULC3P720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/855sv5v3uvkz"},
+         "keyName":"Jaal 1",
+         "pathName":"S1"
+      },
     {
          "id":"129",
          "ImageUrlHorizontal":"https://i.ibb.co/XpQMg1q/129H.webp",
@@ -138,25 +159,5 @@
          "EpisodeHubD":{"1":"https://streamhub.to/3ie0wokmvg8w"},
          "keyName":"Palang Tod: Damaad Ji 2",
          "pathName":"S2"
-      },
-      {
-         "id":"120",
-         "ImageUrlHorizontal":"https://i.ibb.co/4KvQ97t/120H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/7yGkWV1/120V.png",
-         "movieName":"Latke Pe Jhatka (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"WOW",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/vV8104P7jxs40Jq/HDKing.Fun_L1T3KJHT3KS1E1H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/267sehkm44ub"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/vV8104P7jxs40Jq/HDKing.Fun_L1T3KJHT3KS1E1H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/267sehkm44ub"},
-         "keyName":"Latke Pe Jhatka 1",
-         "pathName":"S1"
       }
         ]}
