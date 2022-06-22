@@ -2773,6 +2773,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/855sv5v3uvkz"},
          "keyName":"Jaal 1",
          "pathName":"S1"
+      },
+      {
+         "id":"132",
+         "ImageUrlHorizontal":"https://i.ibb.co/mzbvMFm/132H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/tHRgBdC/132V.jpg",
+         "movieName":"Blackmail (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"PrimeShots",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/KZPO3a6VRXsoAl/HDKing.Fun_B1LMPSSE1E172H.mkv","2":"https://streamtape.com/v/MawQlgqbP9im8Ol/HDKing.Fun_B1LMPSSE1E272H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/xjekqvn04d3y","2":"https://streamhub.to/uxynzgov3eno"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/KZPO3a6VRXsoAl/HDKing.Fun_B1LMPSSE1E172H.mkv","2":"https://streamtape.com/v/MawQlgqbP9im8Ol/HDKing.Fun_B1LMPSSE1E272H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/xjekqvn04d3y","2":"https://streamhub.to/uxynzgov3eno"},
+         "keyName":"Blackmail 1",
+         "pathName":"S1"
       }
    ]
 }
