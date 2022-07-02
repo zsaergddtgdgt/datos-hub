@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
     {
+         "id":"136",
+         "ImageUrlHorizontal":"https://i.ibb.co/FVyS6wp/136H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/sWnmcJ0/136V.png",
+         "movieName":"Sursuri Li (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/W1Zqqp2lj8fbw49/JMSP1_%282022%29_www.HDKing.Fun_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/ebikwqv67ggf"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/W1Zqqp2lj8fbw49/JMSP1_%282022%29_www.HDKing.Fun_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/ebikwqv67ggf"},
+         "keyName":"Sursuri Li 1",
+         "pathName":"S1"
+      },
+      {
          "id":"131",
          "ImageUrlHorizontal":"https://i.ibb.co/FWFj4SM/131H.jpg",
          "ImageUrlVertical":"https://i.ibb.co/DYLfn5f/131V.jpg",
