@@ -2875,6 +2875,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/rxfmyn5rtytb","2":"https://streamhub.to/oxtjthhpbtoi"},
          "keyName":"Sainyaa Salman  1",
          "pathName":"S1"
+      },
+      {
+         "id":"137",
+         "ImageUrlHorizontal":"https://i.ibb.co/mFvQLVm/137H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/58w3xDC/137V.jpg",
+         "movieName":"Choodiwala (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/2kpRa4K9VvIWbR/HDKing.BiZ_CH0DW3LS1P720pH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/1pn3p1ci4spr"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/2kpRa4K9VvIWbR/HDKing.BiZ_CH0DW3LS1P720pH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/1pn3p1ci4spr"},
+         "keyName":"Choodiwala",
+         "pathName":"S1"
       }
    ]
 }
