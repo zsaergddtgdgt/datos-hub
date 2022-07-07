@@ -1,6 +1,30 @@
 {
     "webSeriesDataList": [
     {
+         "id":"129",
+         "ImageUrlHorizontal":"https://i.ibb.co/XpQMg1q/129H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/j6c8yrB/129V.png",
+         "movieName":"Chhupi Nazar (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Kooku",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv","2":"https://streamtape.com/v/QKrkGpoYMQTgG6/HDKing.Fun_C1HPN3ZKOS1E272H.mkv",
+         "3":"https://streamtape.com/v/DQrgKXwaQRIkMKk/HDKing.BiZ_C1H3PN3ZRS1E372H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/etr19un27sy8","2":"https://streamhub.to/r86deju7265u",
+         "3":"https://streamhub.to/54llztls3bic"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv","2":"https://streamtape.com/v/QKrkGpoYMQTgG6/HDKing.Fun_C1HPN3ZKOS1E272H.mkv",
+         "3":"https://streamtape.com/v/DQrgKXwaQRIkMKk/HDKing.BiZ_C1H3PN3ZRS1E372H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/etr19un27sy8","2":"https://streamhub.to/r86deju7265u",
+         "3":"https://streamhub.to/54llztls3bic"},
+         "keyName":"Chhupi Nazar 1",
+         "pathName":"S1"
+      },
+    {
          "id":"137",
          "ImageUrlHorizontal":"https://i.ibb.co/mFvQLVm/137H.jpg",
          "ImageUrlVertical":"https://i.ibb.co/58w3xDC/137V.jpg",
@@ -58,26 +82,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.com/v/6W93o2WZ8yt9BPA/HDKing.Fun_J1A3LP1ULC3P720PH3V.mkv","2":"https://streamtape.com/v/eavrzzJwAWhY6PG/HDKing.Fun_J1LS2P2720PH3V.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/855sv5v3uvkz","2":"https://streamhub.to/mys0sn2fporp"},
          "keyName":"Jaal 1",
-         "pathName":"S1"
-      },
-      {
-         "id":"129",
-         "ImageUrlHorizontal":"https://i.ibb.co/XpQMg1q/129H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/j6c8yrB/129V.png",
-         "movieName":"Chhupi Nazar (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Kooku",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv","2":"https://streamtape.com/v/QKrkGpoYMQTgG6/HDKing.Fun_C1HPN3ZKOS1E272H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/etr19un27sy8","2":"https://streamhub.to/r86deju7265u"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/XgoMl18ZXkfDr26/HDKing.Fun_C1HPN3ZKOS1E172H.mkv","2":"https://streamtape.com/v/QKrkGpoYMQTgG6/HDKing.Fun_C1HPN3ZKOS1E272H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/etr19un27sy8","2":"https://streamhub.to/r86deju7265u"},
-         "keyName":"Chhupi Nazar 1",
          "pathName":"S1"
       },
       {
