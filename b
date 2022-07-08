@@ -22,8 +22,8 @@
       },
       {
          "id":"139",
-         "ImageUrlHorizontal":"https://i.ibb.co/1sHxNfW/138H.png",
-         "ImageUrlVertical":"https://i.ibb.co/r3LjKD9/138V.png",
+         "ImageUrlHorizontal":"https://i.ibb.co/zFthsv9/139H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/58Jd6Gh/139V.png",
          "movieName":"Mami No. 1 (2022)",
          "directOne":"Adult,Fantasy",
          "imbd":"9.3",
