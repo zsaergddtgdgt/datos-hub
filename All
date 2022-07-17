@@ -3003,6 +3003,46 @@
          ,"3":"https://streamhub.to/p2u5uux9wxhx"},
          "keyName":"Sursuri Li 1",
          "pathName":"S1"
+      },
+      {
+         "id":"143",
+         "ImageUrlHorizontal":"https://i.ibb.co/Nx0tSq0/143H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/Ws7CYPm/143V.png",
+         "movieName":"Totka (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"RabbitMovies",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/QK0xZdQAwRh0olk/HDKing.BiZ_T0TK1AS1E1T2RBT72H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/9j7u2ig6k72i"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/QK0xZdQAwRh0olk/HDKing.BiZ_T0TK1AS1E1T2RBT72H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/9j7u2ig6k72i"},
+         "keyName":"Totka 1",
+         "pathName":"S1"
+      },
+      {
+         "id":"144",
+         "ImageUrlHorizontal":"https://i.ibb.co/vBRSDDK/144H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/MhxwF7V/144V.jpg",
+         "movieName":"Santushti (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"PrimeShots",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/1qZRwBkgXXseOp1/HDKing.BiZ_S1NTPSSE1T272H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/muykay8cxrxa"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/1qZRwBkgXXseOp1/HDKing.BiZ_S1NTPSSE1T272H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/muykay8cxrxa"},
+         "keyName":"Santushti 1",
+         "pathName":"S1"
       }
    ]
 }
