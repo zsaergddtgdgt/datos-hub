@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
-    {
+   {
+         "id":"145",
+         "ImageUrlHorizontal":"https://i.ibb.co/4MgrtdS/145H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/D9vNFg3/145V.jpg",
+         "movieName":"CharmSukh: Tauba Tauba (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/OYmLdXw1VjtZj1p/HDKing.BiZ_T1UBT3BCHRMS1P1720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/lch99fj04vky"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/OYmLdXw1VjtZj1p/HDKing.BiZ_T1UBT3BCHRMS1P1720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/lch99fj04vky"},
+         "keyName":"CharmSukh: Tauba Tauba 1",
+         "pathName":"S1"
+      },
+      {
          "id":"136",
          "ImageUrlHorizontal":"https://i.ibb.co/FVyS6wp/136H.jpg",
          "ImageUrlVertical":"https://i.ibb.co/sWnmcJ0/136V.png",
