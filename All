@@ -3063,6 +3063,46 @@
          "EpisodeHubD":{"1":"https://streamhub.to/lch99fj04vky"},
          "keyName":"CharmSukh: Tauba Tauba 1",
          "pathName":"S1"
+      },
+      {
+         "id":"146",
+         "ImageUrlHorizontal":"https://i.ibb.co/GPkMVCC/146H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/pnp6jLw/146V.png",
+         "movieName":"Titliyaan (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/6moftavwe4ic"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/6moftavwe4ic"},
+         "keyName":"Titliyaan 1",
+         "pathName":"S1"
+      },
+      {
+         "id":"147",
+         "ImageUrlHorizontal":"https://i.ibb.co/ZTT6PwL/147H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/thBsfV8/147V.jpg",
+         "movieName":"Mera Baap Teri Mausi (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"DigimoviePlex",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/VW1LmPQq97CzJJ/HDKing.BiZ_M3RBPMS1E1T272H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/xb0qj2yeqcg6"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/VW1LmPQq97CzJJ/HDKing.BiZ_M3RBPMS1E1T272H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/xb0qj2yeqcg6"},
+         "keyName":"Mera Baap Teri Mausi 1",
+         "pathName":"S1"
       }
    ]
 }
