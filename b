@@ -1,5 +1,27 @@
 {
     "webSeriesDataList": [
+     {
+         "id":"148",
+         "ImageUrlHorizontal":"https://i.ibb.co/F8tghbg/148H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/ZJLGs0H/148V.jpg",
+         "movieName":"Nalayak (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"PrimeShots",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
+         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
+         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
+         "keyName":"Nalayak 1",
+         "pathName":"S1"
+      },
     {
          "id":"145",
          "ImageUrlHorizontal":"https://i.ibb.co/4MgrtdS/145H.jpg",
