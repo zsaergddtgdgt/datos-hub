@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
-     {
+    
+      {
+         "id":"146",
+         "ImageUrlHorizontal":"https://i.ibb.co/hX8X209/146H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/xzRx8tx/146V.jpg",
+         "movieName":"Titliyaan (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv","2":"https://streamtape.com/v/k2eXozBrYySOl8Q/HDKing.BiZ_T1T3LYS1P2720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/6moftavwe4ic","2":"https://streamhub.to/baipt010fpun"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv","2":"https://streamtape.com/v/k2eXozBrYySOl8Q/HDKing.BiZ_T1T3LYS1P2720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/6moftavwe4ic","2":"https://streamhub.to/baipt010fpun"},
+         "keyName":"Titliyaan 1",
+         "pathName":"S1"
+      },
+    {
          "id":"148",
          "ImageUrlHorizontal":"https://i.ibb.co/F8tghbg/148H.webp",
          "ImageUrlVertical":"https://i.ibb.co/ZJLGs0H/148V.jpg",
@@ -63,26 +84,6 @@
          "EpisodeHubD":{"1":"https://streamhub.to/etr19un27sy8","2":"https://streamhub.to/r86deju7265u",
          "3":"https://streamhub.to/54llztls3bic","4":"https://streamhub.to/nm7vqcn9jc2h"},
          "keyName":"Chhupi Nazar 1",
-         "pathName":"S1"
-      },
-  {
-         "id":"146",
-         "ImageUrlHorizontal":"https://i.ibb.co/GPkMVCC/146H.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/pnp6jLw/146V.png",
-         "movieName":"Titliyaan (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/6moftavwe4ic"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/xgdwVy9JVPukBVG/HDKing.BiZ_T1T3LY3NS1P1720PH3V.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/6moftavwe4ic"},
-         "keyName":"Titliyaan 1",
          "pathName":"S1"
       },
       {
