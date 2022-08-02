@@ -3,8 +3,8 @@
     
      {
          "id":"152",
-         "ImageUrlHorizontal":"https://i.ibb.co/fntnt2n/152V.png",
-         "ImageUrlVertical":"https://i.ibb.co/dPczGKV/152H.webp",
+         "ImageUrlHorizontal":"https://i.ibb.co/dPczGKV/152H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/fntnt2n/152V.png",
          "movieName":"CharmSukh: Tawa Garam (2022)",
          "directOne":"Adult,Fantasy",
          "imbd":"9.3",
