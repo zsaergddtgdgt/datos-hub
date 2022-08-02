@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
     
+     {
+         "id":"152",
+         "ImageUrlHorizontal":"https://i.ibb.co/fntnt2n/152V.png",
+         "ImageUrlVertical":"https://i.ibb.co/dPczGKV/152H.webp",
+         "movieName":"CharmSukh: Tawa Garam (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/vgdbbpPyQXS4Xbm/HDKing.One_T1WG3RMS1P1720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/jo7naizh41od"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/vgdbbpPyQXS4Xbm/HDKing.One_T1WG3RMS1P1720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/jo7naizh41od"},
+         "keyName":"CharmSukh: Tawa Garam 1",
+         "pathName":"S1"
+      },
       {
          "id":"146",
          "ImageUrlHorizontal":"https://i.ibb.co/hX8X209/146H.jpg",
