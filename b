@@ -1,6 +1,25 @@
 {
     "webSeriesDataList": [
-    
+    {
+         "id":"153",
+         "ImageUrlHorizontal":"https://i.ibb.co/VVJyHjW/153H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/b1MYT7H/153V.png",
+         "movieName":"Palang Tod: Siskiyaan (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/lbq3yhog73li"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/lbq3yhog73li"},
+         "keyName":"Palang Tod: Siskiyaan 1",
+         "pathName":"S1"
+      },
      {
          "id":"152",
          "ImageUrlHorizontal":"https://i.ibb.co/dPczGKV/152H.webp",
@@ -19,6 +38,27 @@
          "EpisodeTapeD":{"1":"https://streamtape.com/v/vgdbbpPyQXS4Xbm/HDKing.One_T1WG3RMS1P1720PH3V.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/jo7naizh41od"},
          "keyName":"CharmSukh: Tawa Garam 1",
+         "pathName":"S1"
+      },{
+         "id":"148",
+         "ImageUrlHorizontal":"https://i.ibb.co/F8tghbg/148H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/ZJLGs0H/148V.jpg",
+         "movieName":"Nalayak (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"PrimeShots",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
+         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
+         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
+         "keyName":"Nalayak 1",
          "pathName":"S1"
       },
       {
@@ -41,28 +81,7 @@
          "keyName":"Titliyaan 1",
          "pathName":"S1"
       },
-    {
-         "id":"148",
-         "ImageUrlHorizontal":"https://i.ibb.co/F8tghbg/148H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/ZJLGs0H/148V.jpg",
-         "movieName":"Nalayak (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"PrimeShots",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
-         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/DAjzxVQQ8RUkOlY/HDKing.BiZ_N1L3YKPS1E172H.mkv","2":"https://streamtape.com/v/wagP8MGZjkSJrmB/HDKing.BiZ_N1L3YKPS1E272H.mkv",
-         "3":"https://streamtape.com/v/dklL7D29YJT1jR/HDKing.BiZ_N1L3YKPS1E372H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/x7e3nj5vvahb","2":"https://streamhub.to/ccaleljttlql","3":"https://streamhub.to/nzxd9tdkxaes"},
-         "keyName":"Nalayak 1",
-         "pathName":"S1"
-      },
+    
     {
          "id":"145",
          "ImageUrlHorizontal":"https://i.ibb.co/4MgrtdS/145H.jpg",
@@ -168,46 +187,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.com/v/2kpRa4K9VvIWbR/HDKing.BiZ_CH0DW3LS1P720pH3V.mkv","2":"https://streamtape.com/v/XoxmOX17azIDbqG/HDKing.BiZ_CH0DW3LULS1P2720pH3V.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/1pn3p1ci4spr","2":"https://streamhub.to/bzjpcjqu59q8"},
          "keyName":"Choodiwala",
-         "pathName":"S1"
-      },
-      {
-         "id":"142",
-         "ImageUrlHorizontal":"https://i.ibb.co/Nrd9tVQ/142H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/47cDnFj/142V.png",
-         "movieName":"Shilajit (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"PrimeShots",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/2qA89pXwm4SZb0o/HDKing.BiZ_S1HL3JPSSE1E172H.mkv","2":"https://streamtape.com/v/kp02ZL8Vr6SOkRB/HDKing.BiZ_S1HL3JPSSE1E272H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/7pc39a1bnnqq","2":"https://streamhub.to/cnzw3zwl00yj"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/2qA89pXwm4SZb0o/HDKing.BiZ_S1HL3JPSSE1E172H.mkv","2":"https://streamtape.com/v/kp02ZL8Vr6SOkRB/HDKing.BiZ_S1HL3JPSSE1E272H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/7pc39a1bnnqq","2":"https://streamhub.to/cnzw3zwl00yj"},
-         "keyName":"Shilajit 1",
-         "pathName":"S1"
-      },
-      {
-         "id":"139",
-         "ImageUrlHorizontal":"https://i.ibb.co/zFthsv9/139H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/58Jd6Gh/139V.png",
-         "movieName":"Mami No. 1 (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"CinePrime",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/e4q6JGzB74Ija6/HDKing.BiZ_M1MNS1P172H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/aw00ljq985zk"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/e4q6JGzB74Ija6/HDKing.BiZ_M1MNS1P172H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/aw00ljq985zk"},
-         "keyName":"Mami No. 1 1",
          "pathName":"S1"
       }
         ]}
