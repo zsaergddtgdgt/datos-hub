@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
     {
+         "id":"155",
+         "ImageUrlHorizontal":"https://i.ibb.co/0QZhKR0/155H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/xDWFrW7/155V.jpg",
+         "movieName":"Charmsukh : Chawl House 3 (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/1xQ3mQyOP9I137/JMCSCW3_%282022%29_www.Jalshamoviez.Skin_720p_HDRip_AAAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/q2mhykv3ij06"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/1xQ3mQyOP9I137/JMCSCW3_%282022%29_www.Jalshamoviez.Skin_720p_HDRip_AAAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/q2mhykv3ij06"},
+         "keyName":"Charmsukh : Chawl House 3",
+         "pathName":"S1"
+      },
+      {
          "id":"152",
          "ImageUrlHorizontal":"https://i.ibb.co/dPczGKV/152H.webp",
          "ImageUrlVertical":"https://i.ibb.co/fntnt2n/152V.png",
