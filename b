@@ -2,8 +2,8 @@
     "webSeriesDataList": [
     {
          "id":"162",
-         "ImageUrlHorizontal":"https://i.ibb.co/kSKfxHV/162V.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/k6KMCbK/162H.jpg",
+         "ImageUrlHorizontal":"https://i.ibb.co/k6KMCbK/162H.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/kSKfxHV/162V.jpg",
          "movieName":"Courtship (2022)",
          "directOne":"Adult,Fantasy",
          "imbd":"9.3",
