@@ -3147,26 +3147,6 @@
          "pathName":"S1"
       },
       {
-         "id":"153",
-         "ImageUrlHorizontal":"https://i.ibb.co/VVJyHjW/153H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/b1MYT7H/153V.png",
-         "movieName":"Palang Tod: Siskiyaan (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/lbq3yhog73li"},
-         "EpisodeTapeD":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/lbq3yhog73li"},
-         "keyName":"Palang Tod: Siskiyaan 1",
-         "pathName":"S1"
-      },
-      {
          "id":"154",
          "ImageUrlHorizontal":"https://i.ibb.co/TRV6gRy/154H.webp",
          "ImageUrlVertical":"https://i.ibb.co/2v712DG/154V.jpg",
@@ -3432,7 +3412,7 @@
          "id":"163",
          "ImageUrlHorizontal":"https://i.ibb.co/PQb9z42/163H.webp",
          "ImageUrlVertical":"https://i.ibb.co/1LSP2Fq/163V.jpg",
-         "movieName":"Palang Tod : Zaroorat (2022)",
+         "movieName":"Palang Tod : Zaroorat Season 2(2022)",
          "directOne":"Adult,Fantasy",
          "imbd":"9.3",
          "rating":"HD 720p",
@@ -3446,6 +3426,26 @@
          "EpisodeTapeD":{"1":"https://streamtape.com/v/Lkol2pwZyAURQj8/PTS2Z_%282022%29_www.HDKing.Ink_720p_HEVC_HDRip_AAC_x264.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/z5ltv79awps1"},
          "keyName":"Palang Tod : Zaroorat (2022)",
+         "pathName":"S1"
+      },
+      {
+         "id":"153",
+         "ImageUrlHorizontal":"https://i.ibb.co/VVJyHjW/153H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/b1MYT7H/153V.png",
+         "movieName":"Palang Tod: Siskiyaan (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv","2":"https://streamtape.com/v/bzldPvRg9QUxgp/NUM_SS2P1_%282022%29_www.HDKing.Ink_720p_HDRip_AAc_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/lbq3yhog73li","2":"https://streamhub.to/8rw522ho3gzc"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/e3QaaqWr3VUoVG/HDKing.One_P3T0DS1S3KY720PH3V.mkv","2":"https://streamtape.com/v/bzldPvRg9QUxgp/NUM_SS2P1_%282022%29_www.HDKing.Ink_720p_HDRip_AAc_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/lbq3yhog73li","2":"https://streamhub.to/8rw522ho3gzc"},
+         "keyName":"Palang Tod: Siskiyaan 1",
          "pathName":"S1"
       }
    ]
