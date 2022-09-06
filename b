@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
    {
+         "id":"164",
+         "ImageUrlHorizontal":"https://i.ibb.co/xhmQppQ/164H.webp",
+         "ImageUrlVertical":"https://i.ibb.co/pJvr1DV/164V.jpg",
+         "movieName":"Samne Wali Khidki (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/V8M08v7OqpIKKYX/SWKS1_%282022%29_www.HDKing.Ink_720p_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/tpd238oo5mtn"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/V8M08v7OqpIKKYX/SWKS1_%282022%29_www.HDKing.Ink_720p_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/tpd238oo5mtn"},
+         "keyName":"Samne Wali Khidki (2022)",
+         "pathName":"S1"
+      },
+      {
          "id":"153",
          "ImageUrlHorizontal":"https://i.ibb.co/VVJyHjW/153H.webp",
          "ImageUrlVertical":"https://i.ibb.co/b1MYT7H/153V.png",
