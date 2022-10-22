@@ -1,25 +1,6 @@
 {
     "webSeriesDataList": [
-      {
-         "id":"147",
-         "ImageUrlHorizontal":"https://i.ibb.co/ZTT6PwL/147H.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/thBsfV8/147V.jpg",
-         "movieName":"Mera Baap Teri Mausi (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"DigimoviePlex",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.site/v/VW1LmPQq97CzJJ/HDKing.BiZ_M3RBPMS1E1T272H.mkv","2":"https://streamtape.site/v/AQjvgdBJqJiXJor/HDKing.One_M3RBPMSIS1E372H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/xb0qj2yeqcg6","2":"https://streamhub.to/od5c1u334jmu"},
-         "EpisodeTapeD":{"1":"https://streamtape.site/v/VW1LmPQq97CzJJ/HDKing.BiZ_M3RBPMS1E1T272H.mkv","2":"https://streamtape.site/v/AQjvgdBJqJiXJor/HDKing.One_M3RBPMSIS1E372H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/xb0qj2yeqcg6","2":"https://streamhub.to/od5c1u334jmu"},
-         "keyName":"Mera Baap Teri Mausi 1",
-         "pathName":"S1"
-      },
+      
       {
          "id":"168",
          "ImageUrlHorizontal":"https://i.ibb.co/1G3pcX5/63357baca0208a0cb3ced868.jpg",
