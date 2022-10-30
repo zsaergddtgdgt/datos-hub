@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
       
+    
+      {
+         "id":"171",
+         "ImageUrlHorizontal":"https://i.ibb.co/VgzK92z/zzz48.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/fHGkFWP/image.png",
+         "movieName":"Charmsukh : Bidaai (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/qMpX1BMq8jIL77/CSBS1P1_%282022%29_www.HDKIng.Shop_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/12yqkvoJMrFxXb/CSBP2_%282022%29_www.HDKing.Cfd_108p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/pypvm5r6gwss","2":"https://streamhub.to/1ebxj79tc6ib"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/qMpX1BMq8jIL77/CSBS1P1_%282022%29_www.HDKIng.Shop_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/12yqkvoJMrFxXb/CSBP2_%282022%29_www.HDKing.Cfd_108p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/pypvm5r6gwss","2":"https://streamhub.to/1ebxj79tc6ib"},
+         "keyName":"Charmsukh : Bidaai",
+         "pathName":"S1"
+      },
       {
          "id":"168",
          "ImageUrlHorizontal":"https://i.ibb.co/1G3pcX5/63357baca0208a0cb3ced868.jpg",
@@ -63,26 +84,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/d7Ox6x0P9pFkXyV/SS1P1_%282022%29_www.HDKing.Shop_720p_HEVC_HDRip_AAC_x264.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/mvmhocz2hol2"},
          "keyName":"Sultan",
-         "pathName":"S1"
-      },
-      {
-         "id":"171",
-         "ImageUrlHorizontal":"https://i.ibb.co/VgzK92z/zzz48.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/fHGkFWP/image.png",
-         "movieName":"Charmsukh : Bidaai (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/qMpX1BMq8jIL77/CSBS1P1_%282022%29_www.HDKIng.Shop_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/pypvm5r6gwss"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/qMpX1BMq8jIL77/CSBS1P1_%282022%29_www.HDKIng.Shop_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/pypvm5r6gwss"},
-         "keyName":"Charmsukh : Bidaai",
          "pathName":"S1"
       },
       {
