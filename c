@@ -94,6 +94,12 @@
       "name":"WOW",
       "image":"https://i.ibb.co/zZrqX73/wow.jpg",
       "genre":"WOW"
+   },
+   {
+   "id":"18",
+   "name":"OTHER Movies",
+   "image":"https://i.ytimg.com/vi/SB_XJBJjwzw/hqdefault.jpg",
+   "genre":"other"
    }
    
 ]
