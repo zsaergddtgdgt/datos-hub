@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
       
+      {
+         "id":"174",
+         "ImageUrlHorizontal":"https://www.etcnews.tv/wp-content/uploads/2022/11/sdafd.webp",
+         "ImageUrlVertical":"https://i.imgur.com/oeVeXBb.jpg",
+         "movieName":"Teekhi Chutney (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/reXYe09Ka3ibJJ2/TC_NWS1_%282022%29_www.HDKIng.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/cmmg5njv4btf"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/reXYe09Ka3ibJJ2/TC_NWS1_%282022%29_www.HDKIng.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/cmmg5njv4btf"},
+         "keyName":"Teekhi Chutney",
+         "pathName":"S1"
+      },
     
       {
          "id":"171",
