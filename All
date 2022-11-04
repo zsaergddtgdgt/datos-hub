@@ -3653,6 +3653,46 @@
          "EpisodeHubD":{"1":"https://streamhub.to/cmmg5njv4btf"},
          "keyName":"Teekhi Chutney",
          "pathName":"S1"
+      },
+      {
+         "id":"175",
+         "ImageUrlHorizontal":"http://eximage.cyou/aaa98.jpg",
+         "ImageUrlVertical":"https://img202.imagetwist.com/th/52423/6nn5j18fyua7.jpg",
+         "movieName":"Takk (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/02e0q4heseol"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/02e0q4heseol"},
+         "keyName":"Takk",
+         "pathName":"S1"
+      },
+      {
+         "id":"176",
+         "ImageUrlHorizontal":"https://movieetalks.com/wp-content/uploads/2022/10/Chull-Room-Service.webp",
+         "ImageUrlVertical":"https://i.postimg.cc/nrkRwtvn/image.png",
+         "movieName":"Chull: Room Service (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Kooku",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/dOlaQwrbP9ikWxD/CRS_S1E1To02_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/5e0y258gw93p"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/dOlaQwrbP9ikWxD/CRS_S1E1To02_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/5e0y258gw93p"},
+         "keyName":"Chull: Room Service",
+         "pathName":"S1"
       }
    ]
 }
