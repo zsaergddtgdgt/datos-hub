@@ -1,6 +1,45 @@
 {
     "webSeriesDataList": [
-      
+      {
+         "id":"175",
+         "ImageUrlHorizontal":"http://eximage.cyou/aaa98.jpg",
+         "ImageUrlVertical":"https://img202.imagetwist.com/th/52423/6nn5j18fyua7.jpg",
+         "movieName":"Takk (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/02e0q4heseol"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/02e0q4heseol"},
+         "keyName":"Takk",
+         "pathName":"S1"
+      },
+      {
+         "id":"176",
+         "ImageUrlHorizontal":"https://movieetalks.com/wp-content/uploads/2022/10/Chull-Room-Service.webp",
+         "ImageUrlVertical":"https://i.postimg.cc/nrkRwtvn/image.png",
+         "movieName":"Chull: Room Service (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Kooku",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/dOlaQwrbP9ikWxD/CRS_S1E1To02_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/5e0y258gw93p"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/dOlaQwrbP9ikWxD/CRS_S1E1To02_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/5e0y258gw93p"},
+         "keyName":"Chull: Room Service",
+         "pathName":"S1"
+      },
       {
          "id":"174",
          "ImageUrlHorizontal":"https://www.etcnews.tv/wp-content/uploads/2022/11/sdafd.webp",
@@ -104,28 +143,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/3pwYrZjOJ9TdJV8/LFS1P1_%282022%29_www.HDKing.Live_720p_HEVc_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/vY8x7p74mxs4yQM/LFP2_%282022%29_www.HDKing.Shop_AAC_x264_720p_HEVC_HDRip.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/n1bozbb76iql","2":"https://streamhub.to/f553666dspq4"},
          "keyName":"Lady Finger",
-         "pathName":"S1"
-      },
-      {
-         "id":"154",
-         "ImageUrlHorizontal":"https://i.ibb.co/TRV6gRy/154H.webp",
-         "ImageUrlVertical":"https://i.ibb.co/2v712DG/154V.jpg",
-         "movieName":"Shaukeen Uncle (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"PrimeShots",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.site/v/06Bz4AvXMXsbya8/HDKing.One_SH1KNUCSPS1E172H.mkv","2":"https://streamtape.site/v/KQj9QjQ4dATwX2/HDKing.One_S1HKNU3CS1E272H.mkv",
-         "3":"https://streamtape.site/v/vxG2AaKDdJIBA6/HDKing.One_SHK1NUCPSS1E372H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/fnk23e8xqfv1","2":"https://streamhub.to/qbv85cgob216","3":"https://streamhub.to/tbu1cpvx38dh"},
-         "EpisodeTapeD":{"1":"https://streamtape.site/v/06Bz4AvXMXsbya8/HDKing.One_SH1KNUCSPS1E172H.mkv","2":"https://streamtape.site/v/KQj9QjQ4dATwX2/HDKing.One_S1HKNU3CS1E272H.mkv",
-         "3":"https://streamtape.site/v/vxG2AaKDdJIBA6/HDKing.One_SHK1NUCPSS1E372H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/fnk23e8xqfv1","2":"https://streamhub.to/qbv85cgob216","3":"https://streamhub.to/tbu1cpvx38dh"},
-         "keyName":"Shaukeen Uncle 1",
          "pathName":"S1"
       }
         ]}
