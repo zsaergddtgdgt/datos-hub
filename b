@@ -2,6 +2,26 @@
     "webSeriesDataList": [
       
       {
+         "id":"175",
+         "ImageUrlHorizontal":"http://eximage.cyou/aaa98.jpg",
+         "ImageUrlVertical":"https://img202.imagetwist.com/th/52423/6nn5j18fyua7.jpg",
+         "movieName":"Takk (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/qg1Rb1G630HzzGA/TP2_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/02e0q4heseol","2":"https://streamhub.to/rnuy6h49r38o"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/qg1Rb1G630HzzGA/TP2_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/02e0q4heseol","2":"https://streamhub.to/rnuy6h49r38o"},
+         "keyName":"Takk",
+         "pathName":"S1"
+      },
+      {
          "id":"174",
          "ImageUrlHorizontal":"https://www.etcnews.tv/wp-content/uploads/2022/11/sdafd.webp",
          "ImageUrlVertical":"https://i.imgur.com/oeVeXBb.jpg",
@@ -39,26 +59,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/bz4ZbjVXPrTPw8q/SNHM_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_EngSubs.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/ssf81y8ntp2w"},
          "keyName":"Showroom",
-         "pathName":"S1"
-      },
-      {
-         "id":"175",
-         "ImageUrlHorizontal":"http://eximage.cyou/aaa98.jpg",
-         "ImageUrlVertical":"https://img202.imagetwist.com/th/52423/6nn5j18fyua7.jpg",
-         "movieName":"Takk (2022)",
-         "directOne":"Adult,Fantasy",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/02e0q4heseol"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/BjWgD4meBqiyk0m/NUST_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/02e0q4heseol"},
-         "keyName":"Takk",
          "pathName":"S1"
       },
       {
