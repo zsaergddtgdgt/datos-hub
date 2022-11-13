@@ -3713,6 +3713,47 @@
          "EpisodeHubD":{"1":"https://streamhub.to/02e0q4heseol","2":"https://streamhub.to/rnuy6h49r38o"},
          "keyName":"Takk",
          "pathName":"S1"
+      },
+      {
+         "id":"178",
+         "ImageUrlHorizontal":"https://i0.wp.com/thefanboyseo.com/wp-content/uploads/2022/09/IMG-44adfacf108455b13b6047163521865b-V-e1663486318428.jpg?resize=800%2C504&ssl=1",
+         "ImageUrlVertical":"https://m.media-amazon.com/images/M/MV5BODM3ODljZjktNzEzOS00MzExLWJhZTctODhmNWNkOGVjMjdhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+         "movieName":"Girl Friday (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"other",
+         "Industry":"Movie",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/m9PodZgYgouB7v/GF_%282022%29_www.HDKing.Cfd_720p_HDRip_AAC_x264_EngSubs.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/q7s5b4vxuicj"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/m9PodZgYgouB7v/GF_%282022%29_www.HDKing.Cfd_720p_HDRip_AAC_x264_EngSubs.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/q7s5b4vxuicj"},
+         "keyName":"Girl Friday",
+         "pathName":"S1"
+      },
+      {
+         "id":"170",
+         "ImageUrlHorizontal":"https://publicawaaz.com/wp-content/uploads/2022/11/Rajni-Kaand-Part-2-Cineprime-Web-Series-Cast-Story-Release-date-Watch-Online-2022-2-1.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/bdPBYZ9/Rajni-Kaand-2022-HCg-BHcj-i-X7-VX3p.jpg",
+         "movieName":"Official Rajni Kaand Season 2 (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.170",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"CinePrime",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/PJVYlXbq70HGOP/Official_Rajni_Kaand_%282022%29_170_1.mkv.mp4"},
+         "EpisodeHub":{"1":"https://streamhub.to/zmdtwgxdlugf"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/PJVYlXbq70HGOP/Official_Rajni_Kaand_%282022%29_170_1.mkv.mp4"},
+         "EpisodeHubD":{"1":"https://streamhub.to/zmdtwgxdlugf"},
+         "keyName":"Official Rajni Kaand",
+         "pathName":"S2"
       }
    ]
 }
