@@ -2,6 +2,26 @@
     "webSeriesDataList": [
       
       {
+         "id":"180",
+         "ImageUrlHorizontal":"https://i.ytimg.com/vi/9H2Ue0cUFtU/mqdefault.jpg",
+         "ImageUrlVertical":"https://ullu2-files.ullu.app/media-metadata/6372630371844a0bd5f5500a",
+         "movieName":"Honey Trap (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/8KJLm8VvmqfGlD/HTS1_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/zmqgeosod20p"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/8KJLm8VvmqfGlD/HTS1_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/zmqgeosod20p"},
+         "keyName":"Honey Trap",
+         "pathName":"S1"
+      },
+      {
          "id":"175",
          "ImageUrlHorizontal":"http://eximage.cyou/aaa98.jpg",
          "ImageUrlVertical":"https://img202.imagetwist.com/th/52423/6nn5j18fyua7.jpg",
