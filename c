@@ -30,18 +30,6 @@
       "genre":"FilmyMurga"
    },
    {
-      "id":"6",
-      "name":"Poonam Pandey",
-      "image":"https://i.ibb.co/YDJHccC/poonam-Pandey.jpg",
-      "genre":"Poonam Pandey"
-   },
-   {
-      "id":"7",
-      "name":"Sherlyn Chopra",
-      "image":"https://i.ibb.co/P9RqqWq/sherlyn.jpg",
-      "genre":"Sherlyn Chopra"
-   },
-   {
       "id":"9",
       "name":"DigimoviePlex",
       "image":"https://i.ibb.co/bdvCybL/digimovieplex.jpg",
