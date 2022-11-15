@@ -3735,10 +3735,10 @@
          "pathName":"S1"
       },
       {
-         "id":"170",
+         "id":"179",
          "ImageUrlHorizontal":"https://publicawaaz.com/wp-content/uploads/2022/11/Rajni-Kaand-Part-2-Cineprime-Web-Series-Cast-Story-Release-date-Watch-Online-2022-2-1.jpg",
          "ImageUrlVertical":"https://i.ibb.co/bdPBYZ9/Rajni-Kaand-2022-HCg-BHcj-i-X7-VX3p.jpg",
-         "movieName":"Official Rajni Kaand Season 2 (2022)",
+         "movieName":"Official Rajni Kaand 2 (2022)",
          "directOne":"Adult,Fantasy",
          "htmlFile": "https://www.170",
          "imbd":"9.3",
@@ -3754,6 +3754,26 @@
          "EpisodeHubD":{"1":"https://streamhub.to/zmdtwgxdlugf"},
          "keyName":"Official Rajni Kaand",
          "pathName":"S2"
+      },
+      {
+         "id":"180",
+         "ImageUrlHorizontal":"https://i.ytimg.com/vi/9H2Ue0cUFtU/mqdefault.jpg",
+         "ImageUrlVertical":"https://ullu2-files.ullu.app/media-metadata/6372630371844a0bd5f5500a",
+         "movieName":"Honey Trap (2022)",
+         "directOne":"Adult,Fantasy",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/8KJLm8VvmqfGlD/HTS1_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/zmqgeosod20p"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/8KJLm8VvmqfGlD/HTS1_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/zmqgeosod20p"},
+         "keyName":"Honey Trap",
+         "pathName":"S1"
       }
    ]
 }
