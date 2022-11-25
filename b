@@ -1,5 +1,27 @@
 {
     "webSeriesDataList": [
+    
+      {
+         "id":"184",
+         "ImageUrlHorizontal":"https://i.imgur.com/MuEXoF9.jpeg",
+         "ImageUrlVertical":"https://ullu2-files.ullu.app/media-metadata/637637dabb8b0b0bd47ef836",
+         "movieName":"Ishqiyapa (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.184",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"other",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/JY2AX4GwzdiVmw/NWSQ_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv","2":"https://streamtape.to/v/qv28yp4vXyHzXZW/IS1P2_%282022%29_www.HDKing.Cfd_720p_AAC_x264_EngSubs.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/nxca0qamhbcs","2":"https://streamhub.to/y5rtkdyelj9p"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/JY2AX4GwzdiVmw/NWSQ_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv","2":"https://streamtape.to/v/qv28yp4vXyHzXZW/IS1P2_%282022%29_www.HDKing.Cfd_720p_AAC_x264_EngSubs.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/nxca0qamhbcs","2":"https://streamhub.to/y5rtkdyelj9p"},
+         "keyName":"Ishqiyapa",
+         "pathName":"S1"
+      },
       {
          "id":"180",
          "ImageUrlHorizontal":"https://i.ytimg.com/vi/9H2Ue0cUFtU/mqdefault.jpg",
@@ -19,27 +41,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/8KJLm8VvmqfGlD/HTS1_%282022%29_www.HDKing.Cfd_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/Bv73KqGpLjHyXBd/HTP2_%282022%29_www.HDKing.Cfd_720p_HEVc_HDRip_AAC_x264.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/zmqgeosod20p","2":"https://streamhub.to/ogal613rlw8c"},
          "keyName":"Honey Trap",
-         "pathName":"S1"
-      },
-      {
-         "id":"184",
-         "ImageUrlHorizontal":"https://i.imgur.com/MuEXoF9.jpeg",
-         "ImageUrlVertical":"https://ullu2-files.ullu.app/media-metadata/637637dabb8b0b0bd47ef836",
-         "movieName":"Ishqiyapa (2022)",
-         "directOne":"Adult,Fantasy",
-         "htmlFile": "https://www.184",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"other",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/JY2AX4GwzdiVmw/NWSQ_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/nxca0qamhbcs"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/JY2AX4GwzdiVmw/NWSQ_%282022%29_www.HDKing.Cfd_720p_AAC_x264_HDRip.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/nxca0qamhbcs"},
-         "keyName":"Ishqiyapa",
          "pathName":"S1"
       },
       {
