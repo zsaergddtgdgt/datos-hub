@@ -36,6 +36,12 @@
       "genre":"Hotx"
    },
    {
+      "id":"7",
+      "name":"NeonX Vip",
+      "image":"https://i.ibb.co/fDfRfcT/d-PLz89-Z75-POa-YGa9wdq-CHEP9e-Bj7wk-A2oxth-T0ad-Ul-UAI5w-I4-GTn-Pf-q-XWQqsn39ph-Sq.png",
+      "genre":"Neonx"
+   },
+   {
       "id":"9",
       "name":"DigimoviePlex",
       "image":"https://i.ibb.co/bdvCybL/digimovieplex.jpg",
