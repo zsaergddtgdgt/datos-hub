@@ -30,6 +30,12 @@
       "genre":"FilmyMurga"
    },
    {
+      "id":"6",
+      "name":"HotX Vip",
+      "image":"https://i.ibb.co/HDGpNKZ/d1-WTpt-CF3pt-K6-PYba8-FXp2-R5-Zf-c-W-Er-Yw-QRZg-LNX4pig-P9-CJu-H8q0vsz-FBz-XGUMI.png",
+      "genre":"Hotx"
+   },
+   {
       "id":"9",
       "name":"DigimoviePlex",
       "image":"https://i.ibb.co/bdvCybL/digimovieplex.jpg",
