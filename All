@@ -4071,6 +4071,27 @@
          "EpisodeHubD":{"1":"https://streamhub.to/jgzme3mz3joc","2":"https://streamhub.to/ko8uuvks8ln8"},
          "keyName":"Chull: Paani Chalka",
          "pathName":"S1"
+      },
+      {
+         "id":"194",
+         "ImageUrlHorizontal":"https://i.ibb.co/h74MHW9/maxresdefault.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/0VL5JW7/6384892d7c20690bc5aa1b0c.jpg",
+         "movieName":"Jabran (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.194",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/49799abx7f0n"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/49799abx7f0n"},
+         "keyName":"Jabran",
+         "pathName":"S1"
       }
    ]
 }
