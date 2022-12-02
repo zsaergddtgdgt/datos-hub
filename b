@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
      {
+         "id":"195",
+         "ImageUrlHorizontal":"https://i.ibb.co/5TqQxgX/62fbe1fad4b6680bb67e6dc8.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/HDRq1Qk/638897388780880bbfaf3a11.jpg",
+         "movieName":"Palang Tod: Siskiyaan Season 3 (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.195",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/DoA1ZQlxDrf6Ja/PTSKS3P1_%282022%29_www.HDKing.Uk_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/xdndtj8ygj4a"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/DoA1ZQlxDrf6Ja/PTSKS3P1_%282022%29_www.HDKing.Uk_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/xdndtj8ygj4a"},
+         "keyName":"Palang Tod: Siskiyaan",
+         "pathName":"S3"
+      },
+      {
          "id":"194",
          "ImageUrlHorizontal":"https://i.ibb.co/h74MHW9/maxresdefault.jpg",
          "ImageUrlVertical":"https://i.ibb.co/0VL5JW7/6384892d7c20690bc5aa1b0c.jpg",
