@@ -96,16 +96,22 @@
       "genre":"WOW"
    },
    {
-   "id":"18",
-   "name":"OTHER Movies",
-   "image":"https://i.ytimg.com/vi/SB_XJBJjwzw/hqdefault.jpg",
-   "genre":"other"
-   },
-   {
    "id":"19",
    "name":"MoodX Vip",
    "image":"https://i.ibb.co/zxPH9yb/Msq-Heva-Cp39-OR6-p2d1-NTb-Cp-Pt-VVNP2-k-Kit-Ryh-YU48-Qiaaw-FCo-AVQg-CMu-L6-Bytxhx-U.jpg",
    "genre":"Moodx"
+   },
+   {
+   "id":"20",
+   "name":"Mango Tv",
+   "image":"https://i.ibb.co/8BK5JW2/4748c203ead1bfdf518712055c6f6975.jpg",
+   "genre":"mangotv"
+   },
+   {
+   "id":"18",
+   "name":"OTHER Movies",
+   "image":"https://i.ytimg.com/vi/SB_XJBJjwzw/hqdefault.jpg",
+   "genre":"other"
    }
    
 ]
