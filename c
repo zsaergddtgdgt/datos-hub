@@ -100,6 +100,12 @@
    "name":"OTHER Movies",
    "image":"https://i.ytimg.com/vi/SB_XJBJjwzw/hqdefault.jpg",
    "genre":"other"
+   },
+   {
+   "id":"19",
+   "name":"MoodX Vip",
+   "image":"https://i.ibb.co/zxPH9yb/Msq-Heva-Cp39-OR6-p2d1-NTb-Cp-Pt-VVNP2-k-Kit-Ryh-YU48-Qiaaw-FCo-AVQg-CMu-L6-Bytxhx-U.jpg",
+   "genre":"Moodx"
    }
    
 ]
