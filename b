@@ -1,5 +1,27 @@
 {
     "webSeriesDataList": [
+    
+      {
+         "id":"194",
+         "ImageUrlHorizontal":"https://i.ibb.co/h74MHW9/maxresdefault.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/0VL5JW7/6384892d7c20690bc5aa1b0c.jpg",
+         "movieName":"Jabran (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.194",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/egRP1kb30DcmQG/JS1P2_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/49799abx7f0n","2":"https://streamhub.to/8g1vxl4mzv6l"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/egRP1kb30DcmQG/JS1P2_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/49799abx7f0n","2":"https://streamhub.to/8g1vxl4mzv6l"},
+         "keyName":"Jabran",
+         "pathName":"S1"
+      },
      {
          "id":"195",
          "ImageUrlHorizontal":"https://i.ibb.co/5TqQxgX/62fbe1fad4b6680bb67e6dc8.jpg",
@@ -20,27 +42,6 @@
          "EpisodeHubD":{"1":"https://streamhub.to/xdndtj8ygj4a"},
          "keyName":"Palang Tod: Siskiyaan",
          "pathName":"S3"
-      },
-      {
-         "id":"194",
-         "ImageUrlHorizontal":"https://i.ibb.co/h74MHW9/maxresdefault.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/0VL5JW7/6384892d7c20690bc5aa1b0c.jpg",
-         "movieName":"Jabran (2022)",
-         "directOne":"Adult,Fantasy",
-         "htmlFile": "https://www.194",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/49799abx7f0n"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/r9X8ALWMOeFy3o/JBP1_%282022%29_www.HDKing.Fyi_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/49799abx7f0n"},
-         "keyName":"Jabran",
-         "pathName":"S1"
       },
       {
          "id":"184",
