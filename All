@@ -4617,6 +4617,27 @@
          "EpisodeHubD":{"1":"https://streamhub.to/g1qt2y8afkbe"},
          "keyName":"Dil - Do",
          "pathName":"S1"
+      },
+      {
+         "id":"220",
+         "ImageUrlHorizontal":"https://i.ibb.co/mNMp4vs/Love-Guru-Web-Series.webp",
+         "ImageUrlVertical":"https://i.ibb.co/YW1V09B/DDNWp0P.jpg",
+         "movieName":"Love Guru (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.220",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/KPGgYOzKDXcD9M/NULG_%282022%29_www.HDKing.Site_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/cu4g4ql8agjr"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/KPGgYOzKDXcD9M/NULG_%282022%29_www.HDKing.Site_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/cu4g4ql8agjr"},
+         "keyName":"Love Guru",
+         "pathName":"S1"
       }
    ]
 }
