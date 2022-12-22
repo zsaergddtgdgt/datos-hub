@@ -2,6 +2,27 @@
     "webSeriesDataList": [
     
       {
+         "id":"219",
+         "ImageUrlHorizontal":"https://i.ibb.co/L0shYJg/maxresdefault.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/pKmVcNm/photo-2022-12-12-23-57-22-300x450.jpg",
+         "movieName":"Dil - Do (2022)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.219",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/0dxgWebZjXSbXGM/DDP1_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/LpWL2aX4veUR2og/DDS1P2_%282022%29_www.HDKing.Site_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/g1qt2y8afkbe","2":"https://streamhub.to/u5rr97tu04zc"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/0dxgWebZjXSbXGM/DDP1_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv","2":"https://streamtape.to/v/LpWL2aX4veUR2og/DDS1P2_%282022%29_www.HDKing.Site_720p_HEVc_HDRip_AAC_x264.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/g1qt2y8afkbe","2":"https://streamhub.to/u5rr97tu04zc"},
+         "keyName":"Dil - Do",
+         "pathName":"S1"
+      },
+      {
          "id":"220",
          "ImageUrlHorizontal":"https://i.ibb.co/mNMp4vs/Love-Guru-Web-Series.webp",
          "ImageUrlVertical":"https://i.ibb.co/YW1V09B/DDNWp0P.jpg",
@@ -20,27 +41,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/KPGgYOzKDXcD9M/NULG_%282022%29_www.HDKing.Site_720p_HEVc_HDRip_AAC_x264.mkv"},
          "EpisodeHubD":{"1":"https://streamhub.to/cu4g4ql8agjr"},
          "keyName":"Love Guru",
-         "pathName":"S1"
-      },
-      {
-         "id":"219",
-         "ImageUrlHorizontal":"https://i.ibb.co/L0shYJg/maxresdefault.jpg",
-         "ImageUrlVertical":"https://i.ibb.co/pKmVcNm/photo-2022-12-12-23-57-22-300x450.jpg",
-         "movieName":"Dil - Do (2022)",
-         "directOne":"Adult,Fantasy",
-         "htmlFile": "https://www.219",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/0dxgWebZjXSbXGM/DDP1_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/g1qt2y8afkbe"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/0dxgWebZjXSbXGM/DDP1_%282022%29_www.HDKing.Uk_720p_HEVC_HDRip_AAC_x264.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/g1qt2y8afkbe"},
-         "keyName":"Dil - Do",
          "pathName":"S1"
       },
      {
