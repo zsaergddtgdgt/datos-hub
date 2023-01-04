@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
     {
+         "id":"239",
+         "ImageUrlHorizontal":"https://i.ibb.co/LNbKvPy/maxresdefault.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/WPCtd8g/hXfTiIt.jpg",
+         "movieName":"I Love You (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.239",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv"},
+         "EpisodeHub":{"1":"https://streamhub.to/tngrmtqxdq9v"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv"},
+         "EpisodeHubD":{"1":"https://streamhub.to/tngrmtqxdq9v"},
+         "keyName":"I Love You",
+         "pathName":"S1"
+      },
+    {
          "id":"221",
          "ImageUrlHorizontal":"https://i.ibb.co/rf3rbWK/Watch-Online-Doraha-Part-1-Web-Series-on-Ullu-App.jpg",
          "ImageUrlVertical":"https://i.ibb.co/c868cTd/doraha-2022-part-1-hindi-ullu-web-series-hdrip.jpg",
