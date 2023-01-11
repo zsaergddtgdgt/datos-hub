@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
     {
+         "id":"240",
+         "ImageUrlHorizontal":"https://i.ibb.co/JjQ3Grc/1671027569436767-0.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/2t7TsD3/zhRncxs.jpg",
+         "movieName":"Namak (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.240",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW"},
+         "EpisodeHub":{"1":"https://streamhub.to/ccqoy9pfhbnz"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW"},
+         "EpisodeHubD":{"1":"https://streamhub.to/ccqoy9pfhbnz"},
+         "keyName":"Namak",
+         "pathName":"S1"
+      },{
          "id":"239",
          "ImageUrlHorizontal":"https://i.ibb.co/LNbKvPy/maxresdefault.jpg",
          "ImageUrlVertical":"https://i.ibb.co/WPCtd8g/hXfTiIt.jpg",
@@ -14,10 +34,10 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv"},
-         "EpisodeHub":{"1":"https://streamhub.to/tngrmtqxdq9v"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv"},
-         "EpisodeHubD":{"1":"https://streamhub.to/tngrmtqxdq9v"},
+         "EpisodeTape":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv,"2":"https://streamtape.to/v/GAvKy7wL6vI1XBM"},
+         "EpisodeHub":{"1":"https://streamhub.to/tngrmtqxdq9v","2":"https://streamhub.to/2p0wndbt78xh"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/Rj4q1178PJuBL3/HDKing.Site_ILVULS01P172H.mkv","2":"https://streamtape.to/v/GAvKy7wL6vI1XBM"},
+         "EpisodeHubD":{"1":"https://streamhub.to/tngrmtqxdq9v","2":"https://streamhub.to/2p0wndbt78xh"},
          "keyName":"I Love You",
          "pathName":"S1"
       },
