@@ -1,6 +1,28 @@
 {
     "webSeriesDataList": [
-    {
+    
+      {
+         "id":"250",
+         "ImageUrlHorizontal":"https://i.ibb.co/7nqP58n/Fmn-Twc-Xac-AAo-G-W-format-jpg-name-large.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/LP7SRcH/3JFuexD.png",
+         "movieName":"Imli (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.250",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/P8Y7GZBg7ei06RP"},
+         "EpisodeHub":{"1":"https://streamhub.to/jvsvgygmpz2r"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/P8Y7GZBg7ei06RP"},
+         "EpisodeHubD":{"1":"https://streamhub.to/jvsvgygmpz2r"},
+         "keyName":"Imli",
+         "pathName":"S1"
+      },
+      {
          "id":"240",
          "ImageUrlHorizontal":"https://i.ibb.co/JjQ3Grc/1671027569436767-0.jpg",
          "ImageUrlVertical":"https://i.ibb.co/2t7TsD3/zhRncxs.jpg",
@@ -14,13 +36,14 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW"},
-         "EpisodeHub":{"1":"https://streamhub.to/ccqoy9pfhbnz"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW"},
-         "EpisodeHubD":{"1":"https://streamhub.to/ccqoy9pfhbnz"},
+         "EpisodeTape":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW","2":"https://streamtape.to/v/466L2G9zwAHKl6V"},
+         "EpisodeHub":{"1":"https://streamhub.to/ccqoy9pfhbnz","2":"https://streamhub.to/w0u7sgdwb4ka"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/P68MOrL3aZC01OW","2":"https://streamtape.to/v/466L2G9zwAHKl6V"},
+         "EpisodeHubD":{"1":"https://streamhub.to/ccqoy9pfhbnz","2":"https://streamhub.to/w0u7sgdwb4ka"},
          "keyName":"Namak",
          "pathName":"S1"
-      },{
+      },
+      {
          "id":"239",
          "ImageUrlHorizontal":"https://i.ibb.co/LNbKvPy/maxresdefault.jpg",
          "ImageUrlVertical":"https://i.ibb.co/WPCtd8g/hXfTiIt.jpg",
