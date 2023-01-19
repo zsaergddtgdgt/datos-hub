@@ -1,6 +1,26 @@
 {
     "webSeriesDataList": [
-    
+    {
+         "id":"251",
+         "ImageUrlHorizontal":"https://i.ibb.co/g7XpZ67/maxresdefault.jpg",
+         "ImageUrlVertical":"https://i.ibb.co/Y309bnC/Charmsukh-Jane-Anjane-Mein-6-Web-Series-2023-Ullu-Cast-Watch-Online-Release-Date.jpg",
+         "movieName":"Charmsukh Jane Anjane Mein 6 (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.251",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/9oO1a4qBDgSZKZ"},
+         "EpisodeHub":{"1":"https://streamhub.to/ha4mdj54i62c"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/9oO1a4qBDgSZKZ"},
+         "EpisodeHubD":{"1":"https://streamhub.to/ha4mdj54i62c"},
+         "keyName":"Charmsukh Jane Anjane Mein 6",
+         "pathName":"S1"
+      },
       {
          "id":"250",
          "ImageUrlHorizontal":"https://i.ibb.co/7nqP58n/Fmn-Twc-Xac-AAo-G-W-format-jpg-name-large.jpg",
