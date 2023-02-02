@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
-    
+    ,
+      {
+         "id":"254",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Watchman%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Watchman%20(2023).jpg",
+         "movieName":"Watchman (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.254",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/mgkay7laJqhbALV/Watchman_%282023%29_254_1.mkv.mp4"},
+         "EpisodeHub":{"1":"https://streamhub.to/ddsxaz5xj6j8"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/mgkay7laJqhbALV/Watchman_%282023%29_254_1.mkv.mp4"},
+         "EpisodeHubD":{"1":"https://streamhub.to/ddsxaz5xj6j8"},
+         "keyName":"Watchman (2023)",
+         "pathName":"S1"
+      },
       {
          "id":"251",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Charmsukh%20Jane%20Anjane%20Mein%206%20(2023).jpg",
