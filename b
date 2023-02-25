@@ -2,6 +2,27 @@
     "webSeriesDataList": [
     
       {
+         "id":"261",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Khidki%20(2023).jpeg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Khidki%20(2023).jpg",
+         "movieName":"Khidki (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.261",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/mQ43R8OwWWIbww7/Khidki_%282023%29_261_1.mkv.mp4"},
+         "EpisodeHub":{"1":"https://streamhub.to/jnmph0izhicx"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/mQ43R8OwWWIbww7/Khidki_%282023%29_261_1.mkv.mp4"},
+         "EpisodeHubD":{"1":"https://streamhub.to/jnmph0izhicx"},
+         "keyName":"Khidki",
+         "pathName":"S1"
+      },
+      {
          "id":"260",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Love%20Guru%20Season%202%20(2023).jpg",
          "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Love%20Guru%20Season%202%20(2023).jpg",
