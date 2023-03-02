@@ -2,6 +2,27 @@
     "webSeriesDataList": [
     
       {
+         "id":"260",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Love%20Guru%20Season%202%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Love%20Guru%20Season%202%20(2023).jpg",
+         "movieName":"Love Guru Season 2 (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.260",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/bpAAkz7aj8SPPoo/Love_Guru_Season_2_%282023%29_260_1.mkv.mp4","2":"https://streamtape.to/v/AoyYdWrOLeFXRoo"},
+         "EpisodeHub":{"1":"https://streamhub.to/h15bl2f467rh","2":"https://streamhub.to/avb6xfxpvoj6"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/bpAAkz7aj8SPPoo/Love_Guru_Season_2_%282023%29_260_1.mkv.mp4","2":"https://streamtape.to/v/AoyYdWrOLeFXRoo"},
+         "EpisodeHubD":{"1":"https://streamhub.to/h15bl2f467rh","2":"https://streamhub.to/avb6xfxpvoj6"},
+         "keyName":"Love Guru",
+         "pathName":"S1"
+      },
+      {
          "id":"261",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Khidki%20(2023).jpeg",
          "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Khidki%20(2023).jpg",
@@ -20,27 +41,6 @@
          "EpisodeTapeD":{"1":"https://streamtape.to/v/mQ43R8OwWWIbww7/Khidki_%282023%29_261_1.mkv.mp4"},
          "EpisodeHubD":{"1":"https://streamhub.to/jnmph0izhicx"},
          "keyName":"Khidki",
-         "pathName":"S1"
-      },
-      {
-         "id":"260",
-         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Love%20Guru%20Season%202%20(2023).jpg",
-         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Love%20Guru%20Season%202%20(2023).jpg",
-         "movieName":"Love Guru Season 2 (2023)",
-         "directOne":"Adult,Fantasy",
-         "htmlFile": "https://www.260",
-         "imbd":"9.3",
-         "rating":"HD 720p",
-         "language":"Hindi",
-         "catergory":"Ullu",
-         "Industry":"webSeries",
-         "latest":"FALSE",
-         "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/bpAAkz7aj8SPPoo/Love_Guru_Season_2_%282023%29_260_1.mkv.mp4"},
-         "EpisodeHub":{"1":"https://streamhub.to/h15bl2f467rh"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/bpAAkz7aj8SPPoo/Love_Guru_Season_2_%282023%29_260_1.mkv.mp4"},
-         "EpisodeHubD":{"1":"https://streamhub.to/h15bl2f467rh"},
-         "keyName":"Love Guru",
          "pathName":"S1"
       },
       {
