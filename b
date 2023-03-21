@@ -1,6 +1,27 @@
 {
     "webSeriesDataList": [
-    
+      {
+         "id":"270",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Badan%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Badan%20(2023).jpg",
+         "movieName":"Badan (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.270",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/qvAJOw06LYFLg4"},
+         "EpisodeHub":{"1":"https://streamhub.to/5lw8yh0hpppu"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/qvAJOw06LYFLg4"},
+         "EpisodeHubD":{"1":"https://streamhub.to/5lw8yh0hpppu"},
+         "keyName":"Badan",
+         "pathName":"S1"
+      },
+      
       {
          "id":"263",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Secretary%20(2023).jpg",
@@ -15,13 +36,14 @@
          "Industry":"webSeries",
          "latest":"FALSE",
          "latestCatergory":"FALSE",
-         "EpisodeTape":{"1":"https://streamtape.to/v/zGRjyg4xXGCQOa"},
-         "EpisodeHub":{"1":"https://streamhub.to/s3bd9pcaghlg"},
-         "EpisodeTapeD":{"1":"https://streamtape.to/v/zGRjyg4xXGCQOa"},
-         "EpisodeHubD":{"1":"https://streamhub.to/s3bd9pcaghlg"},
+         "EpisodeTape":{"1":"https://streamtape.to/v/zGRjyg4xXGCQOa","2":"https://streamtape.to/v/vKwmelG8lvF49X7"},
+         "EpisodeHub":{"1":"https://streamhub.to/s3bd9pcaghlg","2":"https://streamhub.to/qjt5gqk2rlt3"},
+         "EpisodeTapeD":{"1":"https://streamtape.to/v/zGRjyg4xXGCQOa","2":"https://streamtape.to/v/vKwmelG8lvF49X7"},
+         "EpisodeHubD":{"1":"https://streamhub.to/s3bd9pcaghlg","2":"https://streamhub.to/qjt5gqk2rlt3"},
          "keyName":"Secretary",
          "pathName":"S1"
-      },{
+      },
+      {
          "id":"261",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Khidki%20(2023).jpeg",
          "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Khidki%20(2023).jpg",
