@@ -5688,6 +5688,48 @@
          "EpisodeHubD":{"1":"https://streamhub.to/5lw8yh0hpppu"},
          "keyName":"Badan",
          "pathName":"S1"
+      },
+      {
+         "id":"271",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Girls%20Hostel%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Girls%20Hostel%20(2023).jpg",
+         "movieName":"Girls Hostel (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.271",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"WOW",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/RmQ6JmOQyXhdP2R","2":"https://streamtape.com/v/L33KaMLVqZIRm3j"},
+         "EpisodeHub":{"1":"https://streamhub.to/2cin780z2v40","2":"https://streamhub.to/40lv4jdf95za"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/RmQ6JmOQyXhdP2R","2":"https://streamtape.com/v/L33KaMLVqZIRm3j"},
+         "EpisodeHubD":{"1":"https://streamhub.to/2cin780z2v40","2":"https://streamhub.to/40lv4jdf95za"},
+         "keyName":"Girls Hostel",
+         "pathName":"S1"
+      },
+      {
+         "id":"272",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Girls%20Hostel%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Girls%20Hostel%20(2023).jpg",
+         "movieName":"Girls Hostel (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.271",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"WOW",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.com/v/RmQ6JmOQyXhdP2R","2":"https://streamtape.com/v/L33KaMLVqZIRm3j"},
+         "EpisodeHub":{"1":"https://streamhub.to/2cin780z2v40","2":"https://streamhub.to/40lv4jdf95za"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/RmQ6JmOQyXhdP2R","2":"https://streamtape.com/v/L33KaMLVqZIRm3j"},
+         "EpisodeHubD":{"1":"https://streamhub.to/2cin780z2v40","2":"https://streamhub.to/40lv4jdf95za"},
+         "keyName":"Girls Hostel",
+         "pathName":"S1"
       }
    ]
 }
