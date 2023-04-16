@@ -2,6 +2,27 @@
     "webSeriesDataList": [
       
       {
+         "id":"279",
+         "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Rain%20Basera%20(2023).jpg",
+         "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Rain%20Basera%20(2023).jpg",
+         "movieName":"Rain Basera (2023)",
+         "directOne":"Adult,Fantasy",
+         "htmlFile": "https://www.279",
+         "imbd":"9.3",
+         "rating":"HD 720p",
+         "language":"Hindi",
+         "catergory":"Ullu",
+         "Industry":"webSeries",
+         "latest":"FALSE",
+         "latestCatergory":"FALSE",
+         "EpisodeTape":{"1":"https://streamtape.to/v/pVQ77MaWkKuRLG","2":"https://streamtape.to/v/4Gz6oGGQPohdob"},
+         "EpisodeHub":{"1":"https://streamhub.to/7tixbpzmfczs","2":"https://streamhub.to/pddxgch4lfst"},
+         "EpisodeTapeD":{"1":"https://streamtape.com/v/pVQ77MaWkKuRLG","2":"https://streamtape.to/v/4Gz6oGGQPohdob"},
+         "EpisodeHubD":{"1":"https://streamhub.to/7tixbpzmfczs","2":"https://streamhub.to/pddxgch4lfst"},
+         "keyName":"Rain Basera",
+         "pathName":"S1"
+      },
+      {
          "id":"275",
          "ImageUrlHorizontal":"https://ereviewwala.com/Poster/Adult/H1/Aamras%20(2023).jpg",
          "ImageUrlVertical":"https://ereviewwala.com/Poster/Adult/V1/Aamras%20(2023).jpg",
