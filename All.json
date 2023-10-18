@@ -18,10 +18,10 @@
                 "1": "TopData/webseries/480p/Complete/Antique%20S01%20E01%2021223.mkv"
             },
             "EpisodeTape": {
-                "1": "https://streamtape.site/v/Yqp9KJjhjhkjqWgZhvXrV/Antique_S01_E01_21223.mkv.mp4"
+                "1": "https://streamtape.site/v/Yqp9KJqWgZhvXrV/Antique_S01_E01_21223.mkv.mp4"
             },
             "EpisodeHub": {
-                "1": "https://streamhub.ink/zk0knjnjpth2tmvuy"
+                "1": "https://streamhub.ink/zk0pth2tmvuy"
             },
             "episodeServer4": {
                 "1": "https://latest.aapkipooja.com/adult/Antique S01 E01 21223.mkv"
@@ -19960,36 +19960,6 @@
                 "9": "https://latest.aapkipooja.com/adult/Maaya S01 E09 6487.mkv",
                 "10": "https://latest.aapkipooja.com/adult/Maaya S01 E10 6488.mkv"
             }
-        },
-        {
-            "id": "2",
-            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/kzb21srb7e2qeko6g.jpg",
-            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/7six9ke8gqkcs7h6g.jpg",
-            "movieName": "Gehraiyaan Season 1",
-            "htmlFile": "https://www.5358",
-            "directOne": "Adult",
-            "directSecond": "WHKXDJ2ekQk",
-            "imbd": "7.1",
-            "rating": "Hindi",
-            "catergory": "webSeries",
-            "Industry": "webSeries",
-            "keyName": "Gehraiyaan",
-            "pathName": "S1",
-            "episodeServer3": {
-                "1": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E01%206759.mkv",
-                "2": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E02%206760.mkv",
-                "3": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E03%206761.mkv",
-                "4": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E04%206762.mkv",
-                "5": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E05%206763.mkv",
-                "6": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E06%206764.mkv",
-                "7": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E07%206765.mkv",
-                "8": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E08%206766.mkv",
-                "9": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E09%206767.mkv",
-                "10": "Webseries480pAll/Hindi/Gehraiyaan%20S01/Gehraiyaan%20%20S01E10%206768.mkv"
-            },
-            "EpisodeTape": {},
-            "EpisodeHub": {},
-            "episodeServer4": {}
         },
         {
             "id": "1",
