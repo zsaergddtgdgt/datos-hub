@@ -1,5 +1,189 @@
 {
     "webSeriesDataList": [
+    {
+            "id": "652",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Sexy%20Ghotala%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Sexy%20Ghotala%20Season%201.jpg",
+            "movieName": "Sexy Ghotala Season 1",
+            "htmlFile": "https://www.21662",
+            "directOne": "FALSE",
+            "directSecond": "False",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "other",
+            "Industry": "webSeries",
+            "keyName": "Sexy Ghotala",
+            "pathName": "S1",
+            "episodeServer3": {
+                "1": "TopData/webseries/720p/Sexy%20Ghotala%20S01/Sexy%20Ghotala%20S01%20E01%2021648.mkv",
+                "2": "TopData/webseries/720p/Sexy%20Ghotala%20S01/Sexy%20Ghotala%20S01%20E02%2021649.mkv",
+                "3": "TopData/webseries/720p/Sexy%20Ghotala%20S01/Sexy%20Ghotala%20S01%20E03%2021650.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/vPyAxrvqlkC4O7Z/Sexy_Ghotala_S01_E01_21648.mkv",
+                "2": "https://streamtape.site/v/4yZoP800mmhKvqM/Sexy_Ghotala_S01_E02_21649.mkv",
+                "3": "https://streamtape.site/v/xml4mvOgQ1Uka2Z/Sexy_Ghotala_S01_E03_21650.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Sexy%20Ghotala%20S01%20E01%2021648.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Sexy%20Ghotala%20S01%20E02%2021649.mkv",
+                "3": "http://adult.ringzstudio.online/adult/Sexy%20Ghotala%20S01%20E03%2021650.mkv"
+            }
+        },
+        {
+            "id": "651",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20Season%201.jpg",
+            "movieName": "Khushiyo Ki Chaabi Humari Bhabhi Season 1",
+            "htmlFile": "https://www.21661",
+            "directOne": "FALSE",
+            "directSecond": "ZpQJISrO-T0",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "other",
+            "Industry": "webSeries",
+            "keyName": "Khushiyo Ki Chaabi Humari Bhabhi",
+            "pathName": "S1",
+            "episodeServer3": {
+                "1": "TopData/webseries/720p/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E01%2021645.mkv",
+                "2": "TopData/webseries/480p/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E02%2021646.mkv",
+                "3": "TopData/webseries/720p/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E03%2021647.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/PZgv3wjVZWUWYz/Khushiyo_Ki_Chaabi_Humari_Bhabhi_S01_E01_21645.mkv",
+                "2": "https://streamtape.site/v/3a08rbpA6LUrdy/Khushiyo_Ki_Chaabi_Humari_Bhabhi_S01_E02_21646.mkv",
+                "3": "https://streamtape.site/v/jYmoKelWq6Czr8Q/Khushiyo_Ki_Chaabi_Humari_Bhabhi_S01_E03_21647.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE",
+                "3": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E01%2021645.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E02%2021646.mkv",
+                "3": "http://adult.ringzstudio.online/adult/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E03%2021647.mkv"
+            }
+            },
+            {
+            "id": "650",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Andar%20Ki%20Baat%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Andar%20Ki%20Baat%20Season%201.jpg",
+            "movieName": "Andar Ki Baat Season 1",
+            "htmlFile": "https://www.21505",
+            "directOne": "FALSE",
+            "directSecond": "jJLNKfJ4t-Y",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "Ullu",
+            "Industry": "webSeries",
+            "keyName": "Andar Ki Baat",
+            "pathName": "S1",
+            "episodeServer3": {
+                "1": "TopData/webseries/480p/Complete/Andar%20Ki%20Baat%20%282023%29%20S01%20Part%201%2021498.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/KkYoLwWVZVC0MM9/Andar_Ki_Baat_%282023%29_S01_Part_1_21498.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Andar%20Ki%20Baat%20%282023%29%20S01%20Part%201%2021498.mkv"
+            }
+        },
+        {
+            "id": "649",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Sabak%20Ishq%20Ka%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Sabak%20Ishq%20Ka%20Season%201.jpg",
+            "movieName": "Sabak Ishq Ka Season 1",
+            "htmlFile": "https://www.21380",
+            "directOne": "Ullu,Adult",
+            "directSecond": "tGruK7kpJjE",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "Ullu",
+            "Industry": "webSeries",
+            "latest": "FALSE",
+            "latestCatergory": "FALSE",
+            "keyName": "Sabak Ishq Ka",
+            "pathName": "S1",
+            "episodeServer3": {
+                "1": "TopData/webseries/480p/Complete/Sabak%20Ishq%20Ka%20S01%20E01%2021370.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/A08KAVQzbKTX7lK/Sabak_Ishq_Ka_S01_E01_21370.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Sabak%20Ishq%20Ka%20S01%20E01%2021370.mkv"
+            }
+        },
+        {
+            "id": "648",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Gaon%20Ki%20Garmi%20Season%204.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Gaon%20Ki%20Garmi%20Season%204.jpg",
+            "movieName": "Gaon Ki Garmi Season 4",
+            "htmlFile": "https://www.21365",
+            "directOne": "Ullu,Adult",
+            "directSecond": "TtD1s6e0eqM",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "Ullu",
+            "Industry": "webSeries",
+            "keyName": "Gaon Ki Garmi",
+            "pathName": "S4",
+            "episodeServer3": {
+                "1": "TopData/webseries/480p/Complete/Gaon%20Ki%20Garmi%20S04%20E01.mkv",
+                "2": "TopData/webseries/480p/Complete/Gaon%20Ki%20Garmi%20S04%20E02%2021424.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/w7l9V9O18pSj6a/Gaon_Ki_Garmi_S04_E01.mkv",
+                "2": "https://streamtape.site/v/MzX79yeJ4ySmk8X/Gaon_Ki_Garmi_S04_E02_21424.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Gaon%20Ki%20Garmi%20S04%20E01.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Gaon%20Ki%20Garmi%20S04%20E02%2021424.mkv"
+            }
+        },
+        {
+            "id": "647",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Desi%20Kisse%20Woh%20Din%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Desi%20Kisse%20Woh%20Din%20Season%201.jpg",
+            "movieName": "Desi Kisse Woh Din Season 1",
+            "htmlFile": "https://www.21299",
+            "directOne": "Ullu,Adult",
+            "directSecond": "mnuDCgJyZNA",
+            "imbd": "6.8",
+            "rating": "Hindi",
+            "catergory": "Ullu",
+            "Industry": "webSeries",
+            "keyName": "Desi Kisse Woh Din",
+            "pathName": "S1",
+            "episodeServer3": {
+                "1": "TopData/webseries/480p/Complete/Desi%20Kisse%20Woh%20Din%20S01%20E01%2021281.mkv"
+            },
+            "EpisodeTape": {
+                "1": "https://streamtape.site/v/R4pG06lKRLCjJx/Desi_Kisse_Woh_Din_S01_E01_21281.mkv"
+            },
+            "EpisodeHub": {
+                "1": "FALSE"
+            },
+            "episodeServer4": {
+                "1": "http://adult.ringzstudio.online/adult/Desi%20Kisse%20Woh%20Din%20S01%20E01%2021281.mkv"
+            }
+        },
         {
             "id": "646",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Antique%20Season%201.jpg",
