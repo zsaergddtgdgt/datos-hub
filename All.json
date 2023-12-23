@@ -77,12 +77,10 @@
             "keyName": "Khichdi",
             "pathName": "S01",
             "EpisodeHub": {
-                "1": "FALSE",
-                "2": "FALSE"
+                "1": "FALSE"
             },
             "EpisodeTape": {
-                "1": "FALSE",
-                "2": "FALSE"
+                "1": "FALSE"
             },
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/KUqGEejN?download?.mkv"
