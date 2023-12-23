@@ -14,7 +14,10 @@
             "Industry": "webSeries",
             "keyName": "Vidhwa",
             "pathName": "S01",
-            "EpisodeHub": {},
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+                },
             "EpisodeTape": {},
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/bsPaDEx5?download?.mkv",
@@ -39,7 +42,10 @@
             "Industry": "webSeries",
             "keyName": "Jangal Me Mangal",
             "pathName": "S01",
-            "EpisodeHub": {},
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
             "EpisodeTape": {},
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/ASJ3aQSR?download?.mkv",
@@ -64,7 +70,10 @@
             "Industry": "webSeries",
             "keyName": "Khichdi",
             "pathName": "S01",
-            "EpisodeHub": {},
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
             "EpisodeTape": {},
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/KUqGEejN?download?.mkv"
