@@ -1,6 +1,79 @@
 {
     "webSeriesDataList": [
         {
+            "id": "660",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Vidhwa%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Vidhwa%20Season%201.png",
+            "movieName": "Vidhwa Season 1",
+            "htmlFile": "https://www.660",
+            "directOne": "FALSE",
+            "directSecond": "trailer",
+            "imbd": "FALSE",
+            "rating": "Hindi",
+            "catergory": "Hotshots",
+            "Industry": "webSeries",
+            "keyName": "Vidhwa",
+            "pathName": "S01",
+            "EpisodeHub": {},
+            "EpisodeTape": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/bsPaDEx5?download?.mkv",
+                "2": "https://pixeldra.in/api/file/WTPsBKvt?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "https://adult.ringzstudio.online/adult/Vidhwa%20S01E01%20660%201.mkv",
+                "2": "https://adult.ringzstudio.online/adult/Vidhwa%20S01E02%20660%202.mkv"
+            }
+        },
+        {
+            "id": "659",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Jangal%20Me%20Mangal%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Jangal%20Me%20Mangal%20Season%201.png",
+            "movieName": "Jangal Me Mangal Season 1",
+            "htmlFile": "https://www.659",
+            "directOne": "FALSE",
+            "directSecond": "trailer",
+            "imbd": "FALSE",
+            "rating": "Hindi",
+            "catergory": "Fugi",
+            "Industry": "webSeries",
+            "keyName": "Jangal Me Mangal",
+            "pathName": "S01",
+            "EpisodeHub": {},
+            "EpisodeTape": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/ASJ3aQSR?download?.mkv",
+                "2": "https://pixeldra.in/api/file/JnDQ5BFp?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "https://adult.ringzstudio.online/adult/Jangal%20Me%20Mangal%20S01E01%20659%201.mkv",
+                "2": "https://adult.ringzstudio.online/adult/Jangal%20Me%20Mangal%20S01E02%20659%202.mkv"
+            }
+        },
+        {
+            "id": "658",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Khichdi%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Khichdi%20Season%201.png",
+            "movieName": "Khichdi Season 1",
+            "htmlFile": "https://www.658",
+            "directOne": "FALSE",
+            "directSecond": "trailer",
+            "imbd": "FALSE",
+            "rating": "Hindi",
+            "catergory": "WOWGold",
+            "Industry": "webSeries",
+            "keyName": "Khichdi",
+            "pathName": "S01",
+            "EpisodeHub": {},
+            "EpisodeTape": {},
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/KUqGEejN?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "https://adult.ringzstudio.online/adult/Khichdi%20S01E01%20658%201.mkv"
+            }
+        },
+        {
             "id": "657",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Adult/H1/Maa%20Ka%20Naka%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Adult/V1/Maa%20Ka%20Naka%20Season%201.jpg",
@@ -58,8 +131,8 @@
                 "1": "http://adult.ringzstudio.online/adult/Unsatisfied%20Wife%20S01Complete%20655%201.mkv"
             }
         },
-       {
-             "id": "654",
+        {
+            "id": "654",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Adult/H1/Private%20Secretary%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Adult/V1/Private%20Secretary%20Season%201.jpg",
             "movieName": "Private Secretary Season 1",
@@ -85,7 +158,7 @@
                 "1": "http://adult.ringzstudio.online/adult/Private%20Secretary%20S01Complete%20654%201.mkv"
             }
         },
-    {
+        {
             "id": "653",
             "ImageUrlHorizontal": "https://api.aapkipooja.com/Poster/Adult/V1/Havas%20Season%201.jpg",
             "ImageUrlVertical": "https://api.aapkipooja.com/Poster/Adult/V1/Havas%20Season%201.jpg",
@@ -112,7 +185,7 @@
                 "1": "http://adult.ringzstudio.online/adult/Havas%20S01Complete%20653%201.mkv"
             }
         },
-    {
+        {
             "id": "652",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Sexy%20Ghotala%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Sexy%20Ghotala%20Season%201.jpg",
@@ -181,8 +254,8 @@
                 "2": "http://adult.ringzstudio.online/adult/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E02%2021646.mkv",
                 "3": "http://adult.ringzstudio.online/adult/Khushiyo%20Ki%20Chaabi%20Humari%20Bhabhi%20S01%20E03%2021647.mkv"
             }
-            },
-            {
+        },
+        {
             "id": "650",
             "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Andar%20Ki%20Baat%20Season%201.jpg",
             "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Andar%20Ki%20Baat%20Season%201.jpg",
