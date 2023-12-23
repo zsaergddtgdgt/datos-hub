@@ -18,7 +18,10 @@
                 "1": "FALSE",
                 "2": "FALSE"
                 },
-            "EpisodeTape": {},
+            "EpisodeTape": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/bsPaDEx5?download?.mkv",
                 "2": "https://pixeldra.in/api/file/WTPsBKvt?download?.mkv"
@@ -46,7 +49,10 @@
                 "1": "FALSE",
                 "2": "FALSE"
             },
-            "EpisodeTape": {},
+            "EpisodeTape": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/ASJ3aQSR?download?.mkv",
                 "2": "https://pixeldra.in/api/file/JnDQ5BFp?download?.mkv"
@@ -74,7 +80,10 @@
                 "1": "FALSE",
                 "2": "FALSE"
             },
-            "EpisodeTape": {},
+            "EpisodeTape": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
             "episodeServer3": {
                 "1": "https://pixeldra.in/api/file/KUqGEejN?download?.mkv"
             },
