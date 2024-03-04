@@ -1,0 +1,66 @@
+{
+    "webSeriesDataList": [
+        {
+            "id": "660",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Vidhwa%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Vidhwa%20Season%201.png",
+            "movieName": "Vidhwa Season 1",
+            "htmlFile": "https://www.660",
+            "directOne": "FALSE",
+            "directSecond": "trailer",
+            "imbd": "FALSE",
+            "rating": "Hindi",
+            "catergory": "Hotshots",
+            "Industry": "webSeries",
+            "keyName": "Vidhwa",
+            "pathName": "S01",
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+                },
+            "EpisodeTape": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/bsPaDEx5?download?.mkv",
+                "2": "https://pixeldra.in/api/file/WTPsBKvt?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "https://adult.ringzstudio.online/adult/Vidhwa%20S01E01%20660%201.mkv",
+                "2": "https://adult.ringzstudio.online/adult/Vidhwa%20S01E02%20660%202.mkv"
+            }
+        },
+        {
+            "id": "659",
+            "ImageUrlHorizontal": "https://ereviewwala.com/Poster/Adult/H1/Jangal%20Me%20Mangal%20Season%201.jpg",
+            "ImageUrlVertical": "https://ereviewwala.com/Poster/Adult/V1/Jangal%20Me%20Mangal%20Season%201.png",
+            "movieName": "Jangal Me Mangal Season 1",
+            "htmlFile": "https://www.659",
+            "directOne": "FALSE",
+            "directSecond": "trailer",
+            "imbd": "FALSE",
+            "rating": "Hindi",
+            "catergory": "Fugi",
+            "Industry": "webSeries",
+            "keyName": "Jangal Me Mangal",
+            "pathName": "S01",
+            "EpisodeHub": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "EpisodeTape": {
+                "1": "FALSE",
+                "2": "FALSE"
+            },
+            "episodeServer3": {
+                "1": "https://pixeldra.in/api/file/ASJ3aQSR?download?.mkv",
+                "2": "https://pixeldra.in/api/file/JnDQ5BFp?download?.mkv"
+            },
+            "episodeServer4": {
+                "1": "https://adult.ringzstudio.online/adult/Jangal%20Me%20Mangal%20S01E01%20659%201.mkv",
+                "2": "https://adult.ringzstudio.online/adult/Jangal%20Me%20Mangal%20S01E02%20659%202.mkv"
+            }
+        }
+    ]
+}
